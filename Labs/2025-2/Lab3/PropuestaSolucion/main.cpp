@@ -1,8 +1,5 @@
 #include "Bibliotecas/FuncionesAuxiliares.h"
-//CODIGO:20231476
-//NOMBRE:HUARI ALVARO
-//DESCRIPCION: MI PROGRAM SE ENCARGA DE REGISTARA CANALES Y SACARLES SUS TIEMPO DE REPRODUCCION
-//ASI COMO LOS INGREDSOS Y EL DESCUENTO DE PORCENTAJE POR EL TIPO DE INGRESO;
+
 int main(int argc, char**argv) {
 
     ifstream archCanales("ArchivosDeDatos/Canales.txt",ios::in);
