@@ -1,0 +1,1873 @@
+                              PALTAFORMA TP_Twitch
+           TARIFA POR DURACION DE LAS ETIQUETAS: 0.78 POR CADA MINUTO Y FRACCION
+==========================================================================================
+ETIQUETA No.1
+    CODIGO: 165107
+    DURACION: 03:00
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     T3388           2.04            360                    18:00:00
+   2)     F8545           1.30            369                    18:26:59
+   3)     Z5539           2.24            782                    39:06:00
+   4)     D5578           4.80            264                    13:12:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1775
+        TIEMPO TOTAL REPRODUCIDO:           88:45:00
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          4153.50
+==========================================================================================
+ETIQUETA No.2
+    CODIGO: 531159
+    DURACION: 03:00
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     G6496           4.69            855                    42:45:00
+   2)     R8400           1.14            330                    16:30:00
+   3)     Z5539           2.24            155                    07:45:00
+   4)     P2391           1.02            253                    12:39:00
+   5)     M1509           1.26            430                    21:30:00
+   6)     I1429           4.64            517                    25:51:00
+   7)     M9510           4.09            113                    05:39:00
+   8)     T9012           4.45            391                    19:33:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                3044
+        TIEMPO TOTAL REPRODUCIDO:           152:12:00
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          7122.96
+==========================================================================================
+ETIQUETA No.3
+    CODIGO: 413164
+    DURACION: 02:59
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     R4559           1.85            395                    19:38:25
+   2)     G2937           2.32            139                    06:54:41
+   3)     R8400           1.14            354                    17:36:05
+   4)     G2582           1.19            166                    08:15:14
+   5)     T3948           4.14            147                    07:18:33
+   6)     V7711           4.09            183                    09:05:57
+   7)     T1252           3.55             80                    03:58:40
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1464
+        TIEMPO TOTAL REPRODUCIDO:           72:47:36
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          3406.73
+==========================================================================================
+ETIQUETA No.4
+    CODIGO: 678119
+    DURACION: 02:58
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D7358           3.49            105                    05:11:29
+   2)     L1579           3.74            430                    21:15:39
+   3)     O4446           2.09            465                    22:59:30
+   4)     F4264           1.49            456                    22:32:48
+   5)     C8596           4.58            313                    15:28:33
+   6)     F5935           4.46            677                    33:28:25
+   7)     F5935           4.46              0                    00:00:00
+   8)     A7791           1.73            372                    18:23:36
+   9)     Y6400           3.08            423                    20:54:53
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                3241
+        TIEMPO TOTAL REPRODUCIDO:           160:14:57
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          8999.61
+==========================================================================================
+ETIQUETA No.5
+    CODIGO: 726131
+    DURACION: 02:55
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D8331           2.47            314                    15:21:03
+   2)     C8596           4.58            376                    18:22:55
+   3)     O5486           4.86            218                    10:39:27
+   4)     G2582           1.19            390                    19:03:59
+   5)     A6986           4.31            536                    26:12:15
+   6)     C7100           3.39            197                    09:37:51
+   7)     T3948           4.14            604                    29:31:43
+   8)     O4446           2.09            416                    20:20:15
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                3051
+        TIEMPO TOTAL REPRODUCIDO:           149:09:35
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          8376.83
+==========================================================================================
+ETIQUETA No.6
+    CODIGO: 461163
+    DURACION: 02:53
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     A6986           4.31             92                    04:26:47
+   2)     R3240           4.76            603                    29:08:41
+   3)     S3421           2.43             73                    03:31:41
+   4)     D5405           4.88            430                    20:46:59
+   5)     G2937           2.32            392                    18:56:47
+   6)     R8170           1.18            131                    06:19:53
+   7)     S2467           1.25            276                    13:20:23
+   8)     F7849           1.79            579                    27:59:05
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2576
+        TIEMPO TOTAL REPRODUCIDO:           124:30:23
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          5826.91
+==========================================================================================
+ETIQUETA No.7
+    CODIGO: 914103
+    DURACION: 02:53
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     T3948           4.14            320                    15:28:00
+   2)     N4286           4.08              0                    00:00:00
+   3)     M8596           1.46            275                    13:17:29
+   4)     G2937           2.32            623                    30:06:41
+   5)     S3421           2.43            496                    23:58:23
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1714
+        TIEMPO TOTAL REPRODUCIDO:           82:50:36
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          3877.07
+==========================================================================================
+ETIQUETA No.8
+    CODIGO: 450161
+    DURACION: 02:53
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D8455           2.76            195                    09:22:15
+   2)     S1190           1.35            660                    31:42:59
+   3)     D5578           4.80            190                    09:07:49
+   4)     S5697           3.65            304                    14:36:31
+   5)     L6570           3.85            321                    15:25:32
+   6)     R8170           1.18             92                    04:25:16
+   7)     N1264           2.71            299                    14:22:06
+   8)     E5929           2.22            306                    14:42:17
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2367
+        TIEMPO TOTAL REPRODUCIDO:           113:44:50
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          5323.38
+==========================================================================================
+ETIQUETA No.9
+    CODIGO: 977179
+    DURACION: 02:53
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     P1205           1.48            231                    11:06:02
+   2)     C7601           2.17            253                    12:09:28
+   3)     Y8760           1.80            376                    18:04:08
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                 860
+        TIEMPO TOTAL REPRODUCIDO:           41:19:39
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:          1450.60
+==========================================================================================
+ETIQUETA No.10
+    CODIGO: 704111
+    DURACION: 02:51
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     F5935           4.46            245                    11:38:14
+   2)     I1429           4.64            208                    09:52:48
+   3)     N4286           4.08            167                    07:55:57
+   4)     Y6400           3.08            834                    39:36:54
+   5)     N2362           4.21            186                    08:50:06
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1640
+        TIEMPO TOTAL REPRODUCIDO:           77:54:00
+        PORCENTAJE PROMEDIO POR RATING:       +30.00%
+        INGRESOS POR REPRODUCCIONES:          4739.44
+==========================================================================================
+ETIQUETA No.11
+    CODIGO: 610128
+    DURACION: 02:51
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     T1252           3.55            269                    12:46:38
+   2)     D5405           4.88             75                    03:33:45
+   3)     L1579           3.74              0                    00:00:00
+   4)     T9764           2.82            399                    18:57:09
+   5)     B5009           1.13            604                    28:41:24
+   6)     S5888           4.55            388                    18:25:47
+   7)     P1205           1.48              0                    00:00:00
+   8)     C7100           3.39            209                    09:55:39
+   9)     N4286           4.08            122                    05:47:41
+  10)     T7033           1.62            489                    23:13:38
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2555
+        TIEMPO TOTAL REPRODUCIDO:           121:21:44
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          6815.72
+==========================================================================================
+ETIQUETA No.12
+    CODIGO: 294188
+    DURACION: 02:48
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     M3519           4.23            251                    11:42:48
+   2)     B5019           1.10            641                    29:54:48
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                 892
+        TIEMPO TOTAL REPRODUCIDO:           41:37:35
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1948.13
+==========================================================================================
+ETIQUETA No.13
+    CODIGO: 784162
+    DURACION: 02:46
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     O4446           2.09            232                    10:45:44
+   2)     S1339           1.43            282                    13:04:54
+   3)     M9840           3.25            314                    14:33:57
+   4)     T1252           3.55            616                    28:34:32
+   5)     L7416           4.95            318                    14:45:06
+   6)     M9840           3.25              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1762
+        TIEMPO TOTAL REPRODUCIDO:           81:44:14
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          4590.36
+==========================================================================================
+ETIQUETA No.14
+    CODIGO: 929142
+    DURACION: 02:46
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D4404           3.92              0                    00:00:00
+   2)     G2582           1.19            314                    14:28:44
+   3)     B5009           1.13            272                    12:32:31
+   4)     F4264           1.49            971                    44:46:26
+   5)     A1911           2.89            985                    45:25:09
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2542
+        TIEMPO TOTAL REPRODUCIDO:           117:12:51
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          5485.64
+==========================================================================================
+ETIQUETA No.15
+    CODIGO: 394137
+    DURACION: 02:45
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S3642           1.56            400                    18:20:00
+   2)     E6696           3.39            164                    07:31:00
+   3)     T3948           4.14            225                    10:18:45
+   4)     C7601           2.17            577                    26:26:45
+   5)     D4404           3.92              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1366
+        TIEMPO TOTAL REPRODUCIDO:           62:36:30
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          3516.08
+==========================================================================================
+ETIQUETA No.16
+    CODIGO: 254145
+    DURACION: 02:43
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D7358           3.49            300                    13:35:00
+   2)     S1310           3.43            430                    19:28:10
+   3)     D5578           4.80            102                    04:37:05
+   4)     Y6400           3.08            639                    28:55:57
+   5)     P1205           1.48            444                    20:06:11
+   6)     S2467           1.25            345                    15:37:15
+   7)     L6282           1.56            316                    14:18:28
+   8)     S5697           3.65            325                    14:42:55
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2901
+        TIEMPO TOTAL REPRODUCIDO:           131:21:02
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          6147.22
+==========================================================================================
+ETIQUETA No.17
+    CODIGO: 276198
+    DURACION: 02:43
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     R4559           1.85            167                    07:33:40
+   2)     C7601           2.17            161                    07:17:22
+   3)     S2804           2.30            295                    13:21:24
+   4)     D8455           2.76            287                    12:59:41
+   5)     S1460           3.09            233                    10:32:58
+   6)     S1310           3.43            109                    04:56:06
+   7)     F8545           1.30            196                    08:52:27
+   8)     H8371           3.19            207                    09:22:21
+   9)     O4446           2.09            117                    05:17:51
+  10)     P2391           1.02            140                    06:20:19
+  11)     S2467           1.25             99                    04:28:56
+  12)     S1310           3.43              0                    00:00:00
+  13)     A6986           4.31            720                    32:36:00
+  14)     S8567           3.83            342                    15:29:05
+  15)     T9012           4.45            400                    18:06:39
+  16)     S7241           2.55            242                    10:57:26
+  17)     M1509           1.26            103                    04:39:48
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                3818
+        TIEMPO TOTAL REPRODUCIDO:           172:52:14
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          8090.34
+==========================================================================================
+ETIQUETA No.18
+    CODIGO: 125190
+    DURACION: 02:40
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     N1264           2.71             80                    03:33:20
+   2)     T3948           4.14            292                    12:58:40
+   3)     L6570           3.85            590                    26:13:20
+   4)     S1339           1.43            370                    16:26:40
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1332
+        TIEMPO TOTAL REPRODUCIDO:           59:12:00
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          3324.67
+==========================================================================================
+ETIQUETA No.19
+    CODIGO: 175109
+    DURACION: 02:40
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S1339           1.43            330                    14:40:00
+   2)     B5019           1.10            697                    30:58:40
+   3)     P2391           1.02              0                    00:00:00
+   4)     D6138           3.55            868                    38:34:39
+   5)     B5019           1.10              0                    00:00:00
+   6)     F8545           1.30            189                    08:24:00
+   7)     S2804           2.30            581                    25:49:20
+   8)     P7271           3.06            147                    06:31:59
+   9)     O4446           2.09            282                    12:31:59
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                3094
+        TIEMPO TOTAL REPRODUCIDO:           137:30:40
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:          4826.64
+==========================================================================================
+ETIQUETA No.20
+    CODIGO: 401166
+    DURACION: 02:33
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     A6986           4.31            184                    07:52:15
+   2)     H8371           3.19            307                    13:07:57
+   3)     D5578           4.80            183                    07:49:41
+   4)     S1339           1.43            522                    22:19:47
+   5)     T1252           3.55            319                    13:38:45
+   6)     C7601           2.17            121                    05:10:33
+   7)     S3053           3.92            417                    17:50:17
+   8)     T8408           1.08              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2053
+        TIEMPO TOTAL REPRODUCIDO:           87:49:22
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          4932.13
+==========================================================================================
+ETIQUETA No.21
+    CODIGO: 576104
+    DURACION: 02:31
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S3053           3.92            317                    13:23:03
+   2)     V7711           4.09            369                    15:34:48
+   3)     S8567           3.83            316                    13:20:32
+   4)     M1509           1.26             70                    02:57:20
+   5)     D5218           3.17            628                    26:30:56
+   6)     G6497           0.00              0                    00:00:00
+   7)     N4286           4.08            280                    11:49:20
+   8)     E6696           3.39            390                    16:28:00
+   9)     O4446           2.09            383                    16:10:16
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2753
+        TIEMPO TOTAL REPRODUCIDO:           116:14:16
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          5439.93
+==========================================================================================
+ETIQUETA No.22
+    CODIGO: 532197
+    DURACION: 02:24
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     N4419           1.39           1146                    46:09:29
+   2)     D5578           4.80            695                    27:59:34
+   3)     S3053           3.92            423                    17:02:14
+   4)     R8802           4.33            205                    08:15:24
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2469
+        TIEMPO TOTAL REPRODUCIDO:           99:26:44
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          5584.88
+==========================================================================================
+ETIQUETA No.23
+    CODIGO: 684170
+    DURACION: 02:24
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     T3948           4.14            133                    05:21:24
+   2)     I1429           4.64            373                    15:01:24
+   3)     P7271           3.06            140                    05:38:19
+   4)     N4181           1.78              0                    00:00:00
+   5)     M8596           1.46            248                    09:59:19
+   6)     L9091           3.45            378                    15:13:29
+   7)     S5888           4.55            404                    16:16:19
+   8)     L3072           3.40            390                    15:42:29
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2066
+        TIEMPO TOTAL REPRODUCIDO:           83:12:49
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          4673.29
+==========================================================================================
+ETIQUETA No.24
+    CODIGO: 242173
+    DURACION: 02:23
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     Y3725           4.04            134                    05:21:36
+   2)     T3948           4.14            802                    32:04:47
+   3)     D8331           2.47              0                    00:00:00
+   4)     O4446           2.09            358                    14:19:12
+   5)     H8371           3.19             86                    03:26:23
+   6)     D5405           4.88            419                    16:45:36
+   7)     S3053           3.92            143                    05:43:11
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1942
+        TIEMPO TOTAL REPRODUCIDO:           77:40:47
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          4362.51
+==========================================================================================
+ETIQUETA No.25
+    CODIGO: 103172
+    DURACION: 02:18
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     M9510           4.09            249                    09:36:50
+   2)     Q1190           2.43            104                    04:00:55
+   3)     G2937           2.32            209                    08:04:10
+   4)     S3140           4.26            263                    10:09:17
+   5)     M1509           1.26            271                    10:27:49
+   6)     N2362           4.21            365                    14:05:34
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1461
+        TIEMPO TOTAL REPRODUCIDO:           56:24:38
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          3168.03
+==========================================================================================
+ETIQUETA No.26
+    CODIGO: 927148
+    DURACION: 02:17
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     F8545           1.30            123                    04:42:53
+   2)     L6282           1.56            450                    17:15:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                 573
+        TIEMPO TOTAL REPRODUCIDO:           21:57:53
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:           770.97
+==========================================================================================
+ETIQUETA No.27
+    CODIGO: 282183
+    DURACION: 02:17
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     M9840           3.25            258                    09:53:23
+   2)     G2582           1.19            341                    13:04:17
+   3)     P1205           1.48            217                    08:19:06
+   4)     S3140           4.26              0                    00:00:00
+   5)     N2362           4.21            381                    14:36:17
+   6)     R4559           1.85            413                    15:49:53
+   7)     E6341           2.98            254                    09:44:11
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1864
+        TIEMPO TOTAL REPRODUCIDO:           71:27:11
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          3344.02
+==========================================================================================
+ETIQUETA No.28
+    CODIGO: 738184
+    DURACION: 02:15
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     A1911           2.89           1351                    51:02:15
+   2)     N1264           2.71            148                    05:35:28
+   3)     C7100           3.39            751                    28:22:16
+   4)     S7241           2.55            815                    30:47:19
+   5)     D5578           4.80            261                    09:51:35
+   6)     L9091           3.45            150                    05:40:00
+   7)     S7241           2.55              0                    00:00:00
+   8)     F8545           1.30            221                    08:20:55
+   9)     B5009           1.13            432                    16:19:12
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                4129
+        TIEMPO TOTAL REPRODUCIDO:           155:59:04
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          7300.07
+==========================================================================================
+ETIQUETA No.29
+    CODIGO: 875110
+    DURACION: 02:15
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     M8596           1.46            171                    06:24:44
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                 171
+        TIEMPO TOTAL REPRODUCIDO:           06:24:44
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:           225.08
+==========================================================================================
+ETIQUETA No.30
+    CODIGO: 752122
+    DURACION: 02:15
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     G2582           1.19            119                    04:27:44
+   2)     Q1190           2.43            863                    32:21:44
+   3)     L1579           3.74            442                    16:34:29
+   4)     P2391           1.02            243                    09:06:44
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1667
+        TIEMPO TOTAL REPRODUCIDO:           62:30:44
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2925.58
+==========================================================================================
+ETIQUETA No.31
+    CODIGO: 657114
+    DURACION: 02:13
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     T3388           2.04            601                    22:22:13
+   2)     N2362           4.21            377                    14:01:57
+   3)     D8331           2.47            139                    05:10:25
+   4)     G9798           1.68            543                    20:12:41
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1660
+        TIEMPO TOTAL REPRODUCIDO:           61:47:19
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2891.72
+==========================================================================================
+ETIQUETA No.32
+    CODIGO: 113141
+    DURACION: 02:12
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     P7271           3.06            118                    04:19:36
+   2)     A8576           3.83            329                    12:03:47
+   3)     S2467           1.25            385                    14:07:00
+   4)     B5009           1.13            699                    25:37:47
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1531
+        TIEMPO TOTAL REPRODUCIDO:           56:08:12
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2627.20
+==========================================================================================
+ETIQUETA No.33
+    CODIGO: 360187
+    DURACION: 02:10
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     B5216           1.74            439                    15:58:28
+   2)     N4286           4.08              0                    00:00:00
+   3)     M8596           1.46            113                    04:06:42
+   4)     L6570           3.85            329                    11:58:19
+   5)     A6986           4.31            392                    14:15:51
+   6)     R8170           1.18            132                    04:48:11
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1405
+        TIEMPO TOTAL REPRODUCIDO:           51:07:35
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2392.72
+==========================================================================================
+ETIQUETA No.34
+    CODIGO: 970129
+    DURACION: 02:07
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     B5216           1.74            723                    25:30:20
+   2)     B5216           1.74              0                    00:00:00
+   3)     C7146           2.16            290                    10:13:49
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1013
+        TIEMPO TOTAL REPRODUCIDO:           35:44:10
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:          1254.35
+==========================================================================================
+ETIQUETA No.35
+    CODIGO: 249101
+    DURACION: 02:07
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     L6282           1.56            388                    13:41:15
+   2)     S3140           4.26            141                    04:58:26
+   3)     S2467           1.25            294                    10:22:17
+   4)     H1291           3.37           1021                    36:01:06
+   5)     S3421           2.43            328                    11:34:15
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2172
+        TIEMPO TOTAL REPRODUCIDO:           76:37:23
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          3585.97
+==========================================================================================
+ETIQUETA No.36
+    CODIGO: 888106
+    DURACION: 02:07
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     E6696           3.39            244                    08:36:27
+   2)     L9091           3.45            336                    11:51:12
+   3)     O5486           4.86            450                    15:52:30
+   4)     D4404           3.92              0                    00:00:00
+   5)     W4995           2.26            369                    13:01:03
+   6)     R4559           1.85            179                    06:18:52
+   7)     G2582           1.19            222                    07:49:53
+   8)     R8802           4.33            526                    18:33:21
+   9)     S5697           3.65            176                    06:12:31
+  10)     G6496           4.69            187                    06:35:49
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2689
+        TIEMPO TOTAL REPRODUCIDO:           94:51:43
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          5327.45
+==========================================================================================
+ETIQUETA No.37
+    CODIGO: 373149
+    DURACION: 02:05
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D8331           2.47            418                    14:30:50
+   2)     L6570           3.85            784                    27:13:20
+   3)     G6496           4.69            345                    11:58:45
+   4)     N2362           4.21            348                    12:05:00
+   5)     C7146           2.16            148                    05:08:20
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2043
+        TIEMPO TOTAL REPRODUCIDO:           70:56:15
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          3983.85
+==========================================================================================
+ETIQUETA No.38
+    CODIGO: 650117
+    DURACION: 02:05
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     R4559           1.85            498                    17:17:30
+   2)     S1460           3.09            224                    07:46:40
+   3)     S5888           4.55             91                    03:09:35
+   4)     N4181           1.78            239                    08:17:54
+   5)     R5631           1.30             81                    02:48:45
+   6)     S8567           3.83            202                    07:00:50
+   7)     Q1190           2.43            333                    11:33:45
+   8)     D8455           2.76            368                    12:46:40
+   9)     S8567           3.83              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2036
+        TIEMPO TOTAL REPRODUCIDO:           70:41:40
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          3308.50
+==========================================================================================
+ETIQUETA No.39
+    CODIGO: 233158
+    DURACION: 02:03
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     M8596           1.46            408                    14:03:11
+   2)     M1509           1.26            263                    09:03:32
+   3)     J3324           2.30            238                    08:11:52
+   4)     J3324           2.30              0                    00:00:00
+   5)     L6570           3.85             85                    02:55:39
+   6)     I1429           4.64            113                    03:53:31
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1107
+        TIEMPO TOTAL REPRODUCIDO:           38:07:48
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1784.48
+==========================================================================================
+ETIQUETA No.40
+    CODIGO: 714136
+    DURACION: 02:03
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     C7601           2.17            476                    16:23:44
+   2)     L3072           3.40            265                    09:07:40
+   3)     S3642           1.56            555                    19:07:00
+   4)     A9040           2.73            607                    20:54:27
+   5)     Y3725           4.04            550                    18:56:39
+   6)     M1509           1.26            155                    05:20:19
+   7)     D8331           2.47            438                    15:05:11
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                3046
+        TIEMPO TOTAL REPRODUCIDO:           104:55:04
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          4910.15
+==========================================================================================
+ETIQUETA No.41
+    CODIGO: 702155
+    DURACION: 02:03
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     F7849           1.79            633                    21:48:12
+   2)     L9091           3.45            333                    11:28:12
+   3)     A8576           3.83            224                    07:42:55
+   4)     Y8760           1.80            169                    05:49:15
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1359
+        TIEMPO TOTAL REPRODUCIDO:           46:48:35
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2190.71
+==========================================================================================
+ETIQUETA No.42
+    CODIGO: 632180
+    DURACION: 02:01
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     N1424           1.23            410                    13:53:39
+   2)     A8576           3.83            556                    18:50:31
+   3)     D8331           2.47              0                    00:00:00
+   4)     X5514           2.50            389                    13:10:57
+   5)     S3421           2.43            154                    05:13:07
+   6)     A6986           4.31            333                    11:17:05
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1842
+        TIEMPO TOTAL REPRODUCIDO:           62:25:23
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2921.41
+==========================================================================================
+ETIQUETA No.43
+    CODIGO: 396199
+    DURACION: 02:00
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     T8408           1.08            133                    04:28:12
+   2)     R5631           1.30            135                    04:32:15
+   3)     S3140           4.26            295                    09:54:55
+   4)     D4404           3.92            440                    14:47:20
+   5)     F7849           1.79            174                    05:50:54
+   6)     N4181           1.78            261                    08:46:21
+   7)     R8170           1.18             95                    03:11:34
+   8)     C7601           2.17            653                    21:56:52
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2186
+        TIEMPO TOTAL REPRODUCIDO:           73:28:26
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          3438.58
+==========================================================================================
+ETIQUETA No.44
+    CODIGO: 614102
+    DURACION: 01:59
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     C8596           4.58            436                    14:24:44
+   2)     G2281           3.93            690                    22:48:30
+   3)     E6696           3.39            395                    13:03:25
+   4)     S2804           2.30            346                    11:26:14
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1867
+        TIEMPO TOTAL REPRODUCIDO:           61:42:53
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          3465.90
+==========================================================================================
+ETIQUETA No.45
+    CODIGO: 111196
+    DURACION: 01:57
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                   0
+        TIEMPO TOTAL REPRODUCIDO:           00:00:00
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:             0.00
+==========================================================================================
+ETIQUETA No.46
+    CODIGO: 829177
+    DURACION: 01:57
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S3140           4.26             99                    03:13:03
+   2)     N1264           2.71            240                    07:48:00
+   3)     T2200           2.12            234                    07:36:18
+   4)     G2582           1.19             71                    02:18:27
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                 644
+        TIEMPO TOTAL REPRODUCIDO:           20:55:48
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:           979.52
+==========================================================================================
+ETIQUETA No.47
+    CODIGO: 312130
+    DURACION: 01:56
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     G2937           2.32            123                    03:57:48
+   2)     A8576           3.83            517                    16:39:31
+   3)     I1429           4.64            287                    09:14:51
+   4)     T7033           1.62            621                    20:00:35
+   5)     G6500           0.00              0                    00:00:00
+   6)     N4181           1.78            260                    08:22:40
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1808
+        TIEMPO TOTAL REPRODUCIDO:           58:15:27
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2726.46
+==========================================================================================
+ETIQUETA No.48
+    CODIGO: 867123
+    DURACION: 01:54
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     F8545           1.30            247                    07:53:24
+   2)     M8596           1.46            329                    10:30:34
+   3)     J3324           2.30            187                    05:58:24
+   4)     Y3725           4.04            141                    04:30:14
+   5)     S3053           3.92            107                    03:25:04
+   6)     B7744           4.10             89                    02:50:34
+   7)     A6986           4.31            315                    10:03:45
+   8)     M9510           4.09            245                    07:49:34
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1660
+        TIEMPO TOTAL REPRODUCIDO:           53:01:40
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          2978.04
+==========================================================================================
+ETIQUETA No.49
+    CODIGO: 731150
+    DURACION: 01:53
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     L6570           3.85            201                    06:21:53
+   2)     A6986           4.31            730                    23:06:59
+   3)     R3240           4.76             95                    03:00:29
+   4)     M9510           4.09             77                    02:26:17
+   5)     D8331           2.47            405                    12:49:29
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1508
+        TIEMPO TOTAL REPRODUCIDO:           47:45:11
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          2681.83
+==========================================================================================
+ETIQUETA No.50
+    CODIGO: 978138
+    DURACION: 01:53
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D5405           4.88            586                    18:33:23
+   2)     N1264           2.71            639                    20:14:05
+   3)     C8596           4.58            757                    23:58:17
+   4)     N4286           4.08             70                    02:12:59
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2052
+        TIEMPO TOTAL REPRODUCIDO:           64:58:47
+        PORCENTAJE PROMEDIO POR RATING:       +30.00%
+        INGRESOS POR REPRODUCCIONES:          3953.38
+==========================================================================================
+ETIQUETA No.51
+    CODIGO: 323171
+    DURACION: 01:52
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     G2281           3.93            455                    14:09:19
+   2)     L6282           1.56            192                    05:58:23
+   3)     T3948           4.14            461                    14:20:32
+   4)     C7146           2.16            440                    13:41:19
+   5)     R8802           4.33            362                    11:15:44
+   6)     L3779           4.88            337                    10:29:03
+   7)     D5578           4.80            380                    11:49:19
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2627
+        TIEMPO TOTAL REPRODUCIDO:           81:43:44
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          4589.89
+==========================================================================================
+ETIQUETA No.52
+    CODIGO: 914175
+    DURACION: 01:52
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S2467           1.25            303                    09:25:35
+   2)     S8567           3.83            333                    10:21:35
+   3)     L1579           3.74            294                    09:08:47
+   4)     N1424           1.23              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                 930
+        TIEMPO TOTAL REPRODUCIDO:           28:55:59
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1354.08
+==========================================================================================
+ETIQUETA No.53
+    CODIGO: 312157
+    DURACION: 01:50
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     L6282           1.56            299                    09:13:08
+   2)     M9840           3.25            719                    22:10:08
+   3)     R8802           4.33            366                    11:17:05
+   4)     S5697           3.65            288                    08:52:47
+   5)     R8170           1.18            420                    12:56:59
+   6)     L1579           3.74             87                    02:40:56
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2179
+        TIEMPO TOTAL REPRODUCIDO:           67:11:09
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          3144.30
+==========================================================================================
+ETIQUETA No.54
+    CODIGO: 186113
+    DURACION: 01:47
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D7358           3.49            186                    05:34:48
+   2)     F8545           1.30            109                    03:16:12
+   3)     B5019           1.10            837                    25:06:35
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1132
+        TIEMPO TOTAL REPRODUCIDO:           33:57:36
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:          1192.00
+==========================================================================================
+ETIQUETA No.55
+    CODIGO: 785178
+    DURACION: 01:42
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S7241           2.55            656                    18:35:12
+   2)     S3421           2.43            203                    05:45:06
+   3)     D8455           2.76            344                    09:44:48
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1203
+        TIEMPO TOTAL REPRODUCIDO:           34:05:06
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1595.18
+==========================================================================================
+ETIQUETA No.56
+    CODIGO: 570116
+    DURACION: 01:38
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S3642           1.56            751                    20:39:08
+   2)     T1252           3.55            611                    16:48:08
+   3)     R5631           1.30            456                    12:32:24
+   4)     N4286           4.08            324                    08:54:36
+   5)     G2281           3.93            796                    21:53:24
+   6)     B5216           1.74            272                    07:28:48
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                3210
+        TIEMPO TOTAL REPRODUCIDO:           88:16:30
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          4131.27
+==========================================================================================
+ETIQUETA No.57
+    CODIGO: 199127
+    DURACION: 01:37
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S3053           3.92            418                    11:15:46
+   2)     Y3725           4.04            528                    14:13:35
+   3)     L6282           1.56            716                    19:17:31
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1662
+        TIEMPO TOTAL REPRODUCIDO:           44:46:53
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          2514.94
+==========================================================================================
+ETIQUETA No.58
+    CODIGO: 693105
+    DURACION: 01:37
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D8455           2.76            247                    06:39:19
+   2)     F5935           4.46            700                    18:51:39
+   3)     T8408           1.08            119                    03:12:22
+   4)     C7100           3.39            285                    07:40:44
+   5)     S5697           3.65            341                    09:11:17
+   6)     S5888           4.55            147                    03:57:39
+   7)     M1509           1.26              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1839
+        TIEMPO TOTAL REPRODUCIDO:           49:33:03
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          2782.77
+==========================================================================================
+ETIQUETA No.59
+    CODIGO: 145153
+    DURACION: 01:37
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     A8213           1.62            543                    14:37:51
+   2)     E6696           3.39             97                    02:36:48
+   3)     F8545           1.30            228                    06:08:36
+   4)     D8331           2.47            132                    03:33:23
+   5)     Y6400           3.08            706                    19:01:22
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1706
+        TIEMPO TOTAL REPRODUCIDO:           45:58:01
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2151.27
+==========================================================================================
+ETIQUETA No.60
+    CODIGO: 316186
+    DURACION: 01:35
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S3140           4.26            162                    04:19:11
+   2)     D7358           3.49            501                    13:21:35
+   3)     D5405           4.88            139                    03:42:23
+   4)     E5929           2.22            333                    08:52:47
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1135
+        TIEMPO TOTAL REPRODUCIDO:           30:15:59
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          1699.78
+==========================================================================================
+ETIQUETA No.61
+    CODIGO: 770185
+    DURACION: 01:35
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     A9040           2.73            716                    19:05:36
+   2)     D4404           3.92            339                    09:02:23
+   3)     S1460           3.09            222                    05:55:11
+   4)     S6846           4.80            574                    15:18:23
+   5)     Z5539           2.24            455                    12:07:59
+   6)     R8802           4.33            869                    23:10:23
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                3175
+        TIEMPO TOTAL REPRODUCIDO:           84:39:59
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          4754.88
+==========================================================================================
+ETIQUETA No.62
+    CODIGO: 683126
+    DURACION: 01:34
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D4404           3.92            442                    11:39:50
+   2)     L6570           3.85            304                    08:01:19
+   3)     G2281           3.93            447                    11:47:44
+   4)     G2582           1.19             88                    02:19:20
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1281
+        TIEMPO TOTAL REPRODUCIDO:           33:48:15
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          1898.44
+==========================================================================================
+ETIQUETA No.63
+    CODIGO: 371167
+    DURACION: 01:33
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     A6986           4.31            170                    04:23:29
+   2)     L6570           3.85            420                    10:50:59
+   3)     Y8760           1.80            210                    05:25:29
+   4)     N1424           1.23              0                    00:00:00
+   5)     Q1190           2.43            585                    15:06:45
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1385
+        TIEMPO TOTAL REPRODUCIDO:           35:46:45
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1674.47
+==========================================================================================
+ETIQUETA No.64
+    CODIGO: 338176
+    DURACION: 01:30
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     B5216           1.74            198                    04:57:00
+   2)     H3032           3.10            302                    07:33:00
+   3)     P7271           3.06            167                    04:10:29
+   4)     B5019           1.10            443                    11:04:30
+   5)     T9764           2.82            345                    08:37:30
+   6)     O4446           2.09            173                    04:19:30
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1628
+        TIEMPO TOTAL REPRODUCIDO:           40:42:00
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1904.76
+==========================================================================================
+ETIQUETA No.65
+    CODIGO: 803100
+    DURACION: 01:26
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S2804           2.30            213                    05:08:50
+   2)     D7358           3.49             90                    02:10:29
+   3)     T8408           1.08              0                    00:00:00
+   4)     H8371           3.19            390                    09:25:29
+   5)     A8576           3.83            221                    05:20:26
+   6)     L7011           2.98            460                    11:07:00
+   7)     R8802           4.33            367                    08:52:08
+   8)     M8596           1.46            424                    10:14:47
+   9)     T8408           1.08              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2165
+        TIEMPO TOTAL REPRODUCIDO:           52:19:14
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2448.61
+==========================================================================================
+ETIQUETA No.66
+    CODIGO: 115115
+    DURACION: 01:26
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     L6282           1.56            742                    17:55:53
+   2)     D8455           2.76            300                    07:15:00
+   3)     Q1190           2.43            305                    07:22:15
+   4)     S3642           1.56            588                    14:12:35
+   5)     P1205           1.48            379                    09:09:32
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2314
+        TIEMPO TOTAL REPRODUCIDO:           55:55:17
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:          1962.85
+==========================================================================================
+ETIQUETA No.67
+    CODIGO: 529140
+    DURACION: 01:24
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S1310           3.43            753                    17:46:44
+   2)     M9510           4.09            434                    10:14:49
+   3)     Q1190           2.43             72                    01:42:00
+   4)     S5888           4.55            400                    09:26:40
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1659
+        TIEMPO TOTAL REPRODUCIDO:           39:10:15
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          2199.83
+==========================================================================================
+ETIQUETA No.68
+    CODIGO: 925120
+    DURACION: 01:22
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S3642           1.56            697                    15:52:34
+   2)     A8576           3.83            391                    08:54:21
+   3)     Q1190           2.43            378                    08:36:36
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1466
+        TIEMPO TOTAL REPRODUCIDO:           33:23:32
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1562.76
+==========================================================================================
+ETIQUETA No.69
+    CODIGO: 150144
+    DURACION: 01:20
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S4746           2.22            284                    06:23:23
+   2)     S5697           3.65            241                    05:25:20
+   3)     O5486           4.86            319                    07:10:38
+   4)     C7601           2.17            295                    06:38:15
+   5)     S2467           1.25            372                    08:22:11
+   6)     T8408           1.08            291                    06:32:50
+   7)     D5405           4.88            430                    09:40:29
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2232
+        TIEMPO TOTAL REPRODUCIDO:           50:13:11
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2350.30
+==========================================================================================
+ETIQUETA No.70
+    CODIGO: 867160
+    DURACION: 01:20
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     T9012           4.45            377                    08:22:40
+   2)     T9012           4.45              0                    00:00:00
+   3)     M3519           4.23            782                    17:22:40
+   4)     G2281           3.93            413                    09:10:40
+   5)     G2582           1.19            311                    06:54:40
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1883
+        TIEMPO TOTAL REPRODUCIDO:           41:50:40
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          2349.98
+==========================================================================================
+ETIQUETA No.71
+    CODIGO: 647182
+    DURACION: 01:19
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     G2281           3.93            296                    06:29:43
+   2)     H3032           3.10            244                    05:21:15
+   3)     S3140           4.26            194                    04:15:26
+   4)     Z5539           2.24            250                    05:29:09
+   5)     L6282           1.56            376                    08:15:04
+   6)     O4446           2.09            652                    14:18:28
+   7)     N2362           4.21            446                    09:47:13
+   8)     E6696           3.39            400                    08:46:39
+   9)     S3053           3.92            387                    08:29:32
+  10)     L9091           3.45            422                    09:15:37
+  11)     F7849           1.79            391                    08:34:48
+  12)     F7849           1.79              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                4058
+        TIEMPO TOTAL REPRODUCIDO:           89:03:01
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          4167.57
+==========================================================================================
+ETIQUETA No.72
+    CODIGO: 866146
+    DURACION: 01:19
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     M8596           1.46            423                    09:16:56
+   2)     H3032           3.10            558                    12:14:41
+   3)     T8408           1.08            379                    08:19:00
+   4)     S3053           3.92            283                    06:12:37
+   5)     S6846           4.80            789                    17:18:50
+   6)     S6846           4.80              0                    00:00:00
+   7)     S1460           3.09            209                    04:35:11
+   8)     A8213           1.62            335                    07:21:04
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2976
+        TIEMPO TOTAL REPRODUCIDO:           65:18:23
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          3056.35
+==========================================================================================
+ETIQUETA No.73
+    CODIGO: 372132
+    DURACION: 01:15
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     T7033           1.62            565                    11:55:40
+   2)     L3072           3.40            342                    07:13:12
+   3)     V7711           4.09            109                    02:18:03
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1016
+        TIEMPO TOTAL REPRODUCIDO:           21:26:56
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          1204.57
+==========================================================================================
+ETIQUETA No.74
+    CODIGO: 547147
+    DURACION: 01:15
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     R5631           1.30            471                    09:48:45
+   2)     T9012           4.45            187                    03:53:44
+   3)     Y6400           3.08             96                    02:00:00
+   4)     R8400           1.14            646                    13:27:29
+   5)     D4404           3.92              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1400
+        TIEMPO TOTAL REPRODUCIDO:           29:09:59
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1365.00
+==========================================================================================
+ETIQUETA No.75
+    CODIGO: 139193
+    DURACION: 01:15
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     B5216           1.74            505                    10:31:14
+   2)     Q1190           2.43            296                    06:09:59
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                 801
+        TIEMPO TOTAL REPRODUCIDO:           16:41:15
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:           780.98
+==========================================================================================
+ETIQUETA No.76
+    CODIGO: 833121
+    DURACION: 01:14
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S7241           2.55            238                    04:53:31
+   2)     R4559           1.85            649                    13:20:25
+   3)     H8371           3.19            440                    09:02:39
+   4)     L3977           2.25            746                    15:20:04
+   5)     C8596           4.58            220                    04:31:19
+   6)     Y3725           4.04            232                    04:46:08
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2525
+        TIEMPO TOTAL REPRODUCIDO:           51:54:10
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          2914.86
+==========================================================================================
+ETIQUETA No.77
+    CODIGO: 994181
+    DURACION: 01:11
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     L1579           3.74            368                    07:21:36
+   2)     N2362           4.21            442                    08:50:23
+   3)     T8408           1.08            390                    07:47:59
+   4)     O5486           4.86            356                    07:07:12
+   5)     S5888           4.55            142                    02:50:23
+   6)     N4419           1.39            705                    14:05:59
+   7)     L6570           3.85            165                    03:18:00
+   8)     D4404           3.92              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2568
+        TIEMPO TOTAL REPRODUCIDO:           51:21:35
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          2884.38
+==========================================================================================
+ETIQUETA No.78
+    CODIGO: 417134
+    DURACION: 01:11
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     Z5539           2.24            379                    07:28:28
+   2)     M9840           3.25            398                    07:50:57
+   3)     Y3725           4.04            411                    08:06:20
+   4)     T3948           4.14            348                    06:51:47
+   5)     G9798           1.68            190                    03:44:49
+   6)     R4559           1.85            150                    02:57:29
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1876
+        TIEMPO TOTAL REPRODUCIDO:           36:59:56
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1731.55
+==========================================================================================
+ETIQUETA No.79
+    CODIGO: 486125
+    DURACION: 01:11
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     R5631           1.30            380                    07:29:39
+   2)     G6499           0.00              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                 380
+        TIEMPO TOTAL REPRODUCIDO:           07:29:39
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:           263.05
+==========================================================================================
+ETIQUETA No.80
+    CODIGO: 199195
+    DURACION: 01:06
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D5578           4.80            168                    03:04:48
+   2)     C7146           2.16            107                    01:57:42
+   3)     Y8760           1.80            208                    03:48:48
+   4)     L7416           4.95            353                    06:28:18
+   5)     A8213           1.62            101                    01:51:05
+   6)     L9091           3.45            192                    03:31:12
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1129
+        TIEMPO TOTAL REPRODUCIDO:           20:41:54
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          1162.42
+==========================================================================================
+ETIQUETA No.81
+    CODIGO: 501133
+    DURACION: 01:02
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     L6570           3.85             81                    01:25:02
+   2)     S1460           3.09            291                    05:05:32
+   3)     G2281           3.93            526                    09:12:17
+   4)     E5929           2.22            444                    07:46:11
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1342
+        TIEMPO TOTAL REPRODUCIDO:           23:29:05
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          1318.92
+==========================================================================================
+ETIQUETA No.82
+    CODIGO: 159152
+    DURACION: 01:00
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     F8545           1.30            166                    02:46:00
+   2)     T9764           2.82            553                    09:13:00
+   3)     F5935           4.46            358                    05:58:00
+   4)     C7601           2.17            344                    05:44:00
+   5)     N1264           2.71            428                    07:07:59
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1849
+        TIEMPO TOTAL REPRODUCIDO:           30:49:00
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1442.22
+==========================================================================================
+ETIQUETA No.83
+    CODIGO: 979189
+    DURACION: 00:57
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S2467           1.25            457                    07:14:09
+   2)     J3324           2.30            448                    07:05:36
+   3)     N4286           4.08            281                    04:26:57
+   4)     D5218           3.17            844                    13:21:48
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2030
+        TIEMPO TOTAL REPRODUCIDO:           32:08:30
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1504.23
+==========================================================================================
+ETIQUETA No.84
+    CODIGO: 992165
+    DURACION: 00:55
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D5405           4.88            340                    05:11:40
+   2)     R8802           4.33            428                    06:32:19
+   3)     A8576           3.83            482                    07:21:50
+   4)     N4286           4.08            319                    04:52:24
+   5)     H8371           3.19            338                    05:09:49
+   6)     S1190           1.35            867                    13:14:45
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2774
+        TIEMPO TOTAL REPRODUCIDO:           42:22:49
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          2380.09
+==========================================================================================
+ETIQUETA No.85
+    CODIGO: 255124
+    DURACION: 00:53
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S3140           4.26            281                    04:12:53
+   2)     Y3725           4.04            330                    04:57:00
+   3)     F8545           1.30            307                    04:36:17
+   4)     T8408           1.08              0                    00:00:00
+   5)     D5578           4.80            201                    03:00:53
+   6)     D4404           3.92            333                    04:59:42
+   7)     G2582           1.19            197                    02:57:18
+   8)     Y6400           3.08            398                    05:58:11
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2047
+        TIEMPO TOTAL REPRODUCIDO:           30:42:17
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1436.99
+==========================================================================================
+ETIQUETA No.86
+    CODIGO: 424112
+    DURACION: 00:51
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     O5486           4.86            108                    01:33:35
+   2)     C7100           3.39            431                    06:13:31
+   3)     J3324           2.30            135                    01:57:00
+   4)     S1310           3.43            233                    03:21:55
+   5)     L7011           2.98            284                    04:06:07
+   6)     P2391           1.02             96                    01:23:12
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1287
+        TIEMPO TOTAL REPRODUCIDO:           18:35:23
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:           870.01
+==========================================================================================
+ETIQUETA No.87
+    CODIGO: 939139
+    DURACION: 00:51
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     C7601           2.17            312                    04:30:24
+   2)     H8371           3.19            536                    07:44:31
+   3)     N4181           1.78            396                    05:43:11
+   4)     O5486           4.86            361                    05:12:51
+   5)     A8576           3.83            517                    07:28:03
+   6)     S2804           2.30            418                    06:02:15
+   7)     S1339           1.43            634                    09:09:27
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                3174
+        TIEMPO TOTAL REPRODUCIDO:           45:50:47
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          2145.62
+==========================================================================================
+ETIQUETA No.88
+    CODIGO: 831191
+    DURACION: 00:51
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     D8331           2.47              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                   0
+        TIEMPO TOTAL REPRODUCIDO:           00:00:00
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:             0.00
+==========================================================================================
+ETIQUETA No.89
+    CODIGO: 990168
+    DURACION: 00:51
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     H3032           3.10            595                    08:25:44
+   2)     S3053           3.92            462                    06:32:41
+   3)     D5405           4.88            743                    10:31:32
+   4)     E6696           3.39            200                    02:49:59
+   5)     L9091           3.45              0                    00:00:00
+   6)     L6282           1.56            316                    04:28:35
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2316
+        TIEMPO TOTAL REPRODUCIDO:           32:48:36
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          1842.61
+==========================================================================================
+ETIQUETA No.90
+    CODIGO: 668194
+    DURACION: 00:49
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     R8802           4.33            426                    05:54:59
+   2)     D7358           3.49            169                    02:20:49
+   3)     N1424           1.23            238                    03:18:19
+   4)     S3140           4.26            288                    04:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1121
+        TIEMPO TOTAL REPRODUCIDO:           15:34:09
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:           874.38
+==========================================================================================
+ETIQUETA No.91
+    CODIGO: 410154
+    DURACION: 00:47
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     B5009           1.13            250                    03:15:50
+   2)     I1429           4.64            100                    01:18:20
+   3)     P2391           1.02            127                    01:39:29
+   4)     N1424           1.23            255                    03:19:45
+   5)     E6696           3.39            133                    01:44:11
+   6)     C7601           2.17            187                    02:26:29
+   7)     O5486           4.86            759                    09:54:33
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1811
+        TIEMPO TOTAL REPRODUCIDO:           23:38:37
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1106.52
+==========================================================================================
+ETIQUETA No.92
+    CODIGO: 866151
+    DURACION: 00:42
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     B5216           1.74            223                    02:36:05
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                 223
+        TIEMPO TOTAL REPRODUCIDO:           02:36:05
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:            91.32
+==========================================================================================
+ETIQUETA No.93
+    CODIGO: 629118
+    DURACION: 00:41
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     G6498           0.00              0                    00:00:00
+   2)     L9091           3.45              0                    00:00:00
+   3)     T1252           3.55            408                    04:38:47
+   4)     Y8760           1.80            370                    04:12:50
+   5)     S2804           2.30            252                    02:52:12
+   6)     B5216           1.74            450                    05:07:30
+   7)     W4995           2.26            546                    06:13:06
+   8)     D4404           3.92              0                    00:00:00
+   9)     S3421           2.43            284                    03:14:04
+  10)     N4181           1.78            333                    03:47:32
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2643
+        TIEMPO TOTAL REPRODUCIDO:           30:06:03
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1408.72
+==========================================================================================
+ETIQUETA No.94
+    CODIGO: 253143
+    DURACION: 00:39
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     R8170           1.18            133                    01:26:27
+   2)     A8576           3.83            654                    07:05:05
+   3)     A9040           2.73            334                    03:37:06
+   4)     B5009           1.13            313                    03:23:27
+   5)     A8576           3.83              0                    00:00:00
+   6)     T2200           2.12            138                    01:29:42
+   7)     M8596           1.46            190                    02:03:30
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1762
+        TIEMPO TOTAL REPRODUCIDO:           19:05:18
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:           893.33
+==========================================================================================
+ETIQUETA No.95
+    CODIGO: 323169
+    DURACION: 00:39
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     R3240           4.76           1029                    11:08:51
+   2)     L9091           3.45            343                    03:42:57
+   3)     Z5539           2.24            297                    03:13:03
+   4)     P2391           1.02            411                    04:27:09
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2080
+        TIEMPO TOTAL REPRODUCIDO:           22:32:00
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1054.56
+==========================================================================================
+ETIQUETA No.96
+    CODIGO: 380174
+    DURACION: 00:39
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     S6846           4.80            743                    08:02:56
+   2)     B5009           1.13            219                    02:22:21
+   3)     T8408           1.08            154                    01:40:06
+   4)     M9510           4.09            381                    04:07:39
+   5)     N1424           1.23              0                    00:00:00
+   6)     M8346           1.73            425                    04:36:15
+   7)     S6846           4.80              0                    00:00:00
+   8)     O5486           4.86            222                    02:24:18
+   9)     P2391           1.02            351                    03:48:09
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2495
+        TIEMPO TOTAL REPRODUCIDO:           27:01:45
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:          1264.97
+==========================================================================================
+ETIQUETA No.97
+    CODIGO: 333192
+    DURACION: 00:38
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                   0
+        TIEMPO TOTAL REPRODUCIDO:           00:00:00
+        PORCENTAJE PROMEDIO POR RATING:       -25.00%
+        INGRESOS POR REPRODUCCIONES:             0.00
+==========================================================================================
+ETIQUETA No.98
+    CODIGO: 553156
+    DURACION: 00:37
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     I1429           4.64            331                    03:24:07
+   2)     Z5539           2.24            406                    04:10:22
+   3)     G9798           1.68            814                    08:21:58
+   4)     M1509           1.26            155                    01:35:35
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1706
+        TIEMPO TOTAL REPRODUCIDO:           17:32:01
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:           820.59
+==========================================================================================
+ETIQUETA No.99
+    CODIGO: 347108
+    DURACION: 00:37
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     B5009           1.13            463                    04:45:31
+   2)     D5578           4.80            126                    01:17:41
+   3)     C8596           4.58            517                    05:18:49
+   4)     R8802           4.33            264                    02:42:48
+   5)     D8331           2.47            275                    02:49:34
+   6)     M1509           1.26            445                    04:34:24
+   7)     D7358           3.49            155                    01:35:35
+   8)     R8802           4.33              0                    00:00:00
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                2245
+        TIEMPO TOTAL REPRODUCIDO:           23:04:24
+        PORCENTAJE PROMEDIO POR RATING:       +20.00%
+        INGRESOS POR REPRODUCCIONES:          1295.81
+==========================================================================================
+ETIQUETA No.100
+    CODIGO: 884135
+    DURACION: 00:35
+------------------------------------------------------------------------------------------
+    CANALES DONDE SE REPRODUCE:
+                        RATING DE       NUMERO TOTAL          TIEMPO TOTAL DE 
+No.       CODIGO         CALIDAD     DE REPRODUCCIONES         REPRODUCCIONES
+   1)     M1509           1.26            190                    01:50:50
+   2)     T1252           3.55            292                    02:50:20
+   3)     S3421           2.43            348                    03:23:00
+   4)     E6696           3.39            325                    03:09:35
+   5)     L9091           3.45            332                    03:13:40
+   6)     P7271           3.06            363                    03:31:45
+     RESUMEN DE LA ETIQUETA:
+        TOTAL DE REPRODUCCIONES:                1850
+        TIEMPO TOTAL REPRODUCIDO:           17:59:10
+        PORCENTAJE PROMEDIO POR RATING:       +0.00%
+        INGRESOS POR REPRODUCCIONES:           841.75
