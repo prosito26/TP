@@ -1,0 +1,1754 @@
+                                                  PLATAFORMA TP_Twitch
+                                   TARIFA POR DURACION DE LAS ETIQUETAS:0.78 POR CADA MINUTO Y FRACCION
+========================================================================================================================
+CANAL No. 1
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      XQCOW                    X5514     19/06/2022           2.50
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  03/02/2025      632180      comfy                    02:02               389                       13:10:57
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         13:10:57
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               635.46
+========================================================================================================================
+CANAL No. 2
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SUMMIT1G                 S6846     21/02/2023           4.80
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  28/02/2025      866146      marvelrivals             01:19               430                       09:26:09
+  02)  30/01/2025      866146      marvelrivals             01:19               359                       07:52:41
+  03)  21/12/2024      380174      vibes                    00:39               272                       02:56:48
+  04)  02/02/2025      380174      vibes                    00:39               171                       01:51:09
+  05)  26/12/2024      380174      vibes                    00:39               300                       03:15:00
+  06)  26/12/2024      770185      queer                    01:36               117                       03:07:12
+  07)  23/01/2025      770185      queer                    01:36               198                       05:16:48
+  08)  07/01/2025      770185      queer                    01:36               259                       06:54:24
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         40:40:11
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2474.36
+========================================================================================================================
+CANAL No. 3
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      GAULES                   G2281     06/01/2022           3.93
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  06/02/2025      501133      furry                    01:03               324                       05:40:11
+  02)  26/12/2024      501133      furry                    01:03               202                       03:32:06
+  03)  03/02/2025      867160      spanish                  01:20               308                       06:50:39
+  04)  06/02/2025      867160      spanish                  01:20               105                       02:20:00
+  05)  15/02/2025      614102      vtuber                   01:59               270                       08:55:30
+  06)  08/02/2025      614102      vtuber                   01:59               420                       13:52:59
+  07)  10/02/2025      647182      japanese                 01:19               144                       03:09:35
+  08)  22/12/2024      647182      japanese                 01:19               152                       03:20:08
+  09)  20/02/2025      570116      safespace                01:39               411                       11:18:09
+  10)  30/01/2025      570116      safespace                01:39               385                       10:35:15
+  11)  24/02/2025      683126      chatty                   01:35               134                       03:32:10
+  12)  08/02/2025      683126      chatty                   01:35               313                       08:15:35
+  13)  15/01/2025      323171      chatting                 01:52               320                       09:57:20
+  14)  20/01/2025      323171      chatting                 01:52               135                       04:12:00
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         95:31:40
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5364.86
+========================================================================================================================
+CANAL No. 4
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ESL_CSGO                 E6696     02/12/2021           3.39
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  18/02/2025      990168      justcchatting            00:51               200                       02:50:00
+  02)  24/12/2024      614102      vtuber                   01:59               395                       13:03:25
+  03)  28/02/2025      888106      fps                      02:07               244                       08:36:28
+  04)  05/02/2025      410154      ama                      00:47               133                       01:44:11
+  05)  03/01/2025      884135      casual                   00:35               325                       03:09:35
+  06)  27/02/2025      145153      gamergirl                01:37                97                       02:36:48
+  07)  23/01/2025      576104      adhd                     02:32               390                       16:27:59
+  08)  31/01/2025      394137      420                      02:45               164                       07:30:59
+  09)  22/02/2025      647182      japanese                 01:19               400                       08:46:39
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         64:46:07
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3637.42
+========================================================================================================================
+CANAL No. 5
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      TFUE                     T7033     19/11/2021           1.62
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  22/01/2025      372132      ps5                      01:16                95                       02:00:19
+  02)  23/02/2025      372132      ps5                      01:16               300                       06:19:59
+  03)  06/02/2025      372132      ps5                      01:16               170                       03:35:19
+  04)  17/01/2025      312130      minecraft                01:56               108                       03:28:47
+  05)  26/12/2024      312130      minecraft                01:56               178                       05:44:07
+  06)  20/01/2025      312130      minecraft                01:56               335                       10:47:39
+  07)  02/03/2025      610128      girl                     02:51               211                       10:01:21
+  08)  11/01/2025      610128      girl                     02:51               278                       13:12:18
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         55:09:54
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2523.65
+========================================================================================================================
+CANAL No. 6
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ASMONGOLD                A8213     07/09/2021           1.62
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  17/02/2025      866146      marvelrivals             01:19               335                       07:21:04
+  02)  28/02/2025      145153      gamergirl                01:37               407                       10:57:59
+  03)  18/01/2025      145153      gamergirl                01:37               136                       03:39:51
+  04)  08/01/2025      199195      code                     01:06               101                       01:51:06
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         23:50:02
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1090.33
+========================================================================================================================
+CANAL No. 7
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      NICKMERCS                N1424     28/12/2022           1.23
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  17/01/2025      668194      speedrun                 00:50               238                       03:18:20
+  02)  05/02/2025      632180      comfy                    02:02               410                       13:53:39
+  03)  27/02/2025      410154      ama                      00:47               255                       03:19:44
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         20:31:44
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               939.15
+========================================================================================================================
+CANAL No. 8
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      FEXTRALIFE               F5935     04/05/2021           4.46
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  03/01/2025      159152      lgbtq                    01:00               358                       05:58:00
+  02)  28/12/2024      693105      rerun                    01:37               313                       08:26:00
+  03)  31/12/2024      693105      rerun                    01:37               387                       10:25:39
+  04)  27/01/2025      678119      fun                      02:58               317                       15:40:26
+  05)  31/01/2025      678119      fun                      02:58               360                       17:48:00
+  06)  28/12/2024      704111      ranked                   02:51               245                       11:38:14
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         69:56:21
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4255.10
+========================================================================================================================
+CANAL No. 9
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      LOLTYLER1                L3072     15/06/2021           3.40
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  26/12/2024      714136      asmr                     02:04                70                       02:24:40
+  02)  26/02/2025      714136      asmr                     02:04               195                       06:43:00
+  03)  06/01/2025      372132      ps5                      01:16                97                       02:02:51
+  04)  23/01/2025      372132      ps5                      01:16               245                       05:10:19
+  05)  31/01/2025      684170      plus                     02:25               170                       06:50:50
+  06)  25/12/2024      684170      plus                     02:25               220                       08:51:39
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         32:03:22
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1800.27
+========================================================================================================================
+CANAL No. 10
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ANOMALY                  A8576     23/12/2022           3.83
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  24/12/2024      939139      dnd                      00:52               436                       06:17:52
+  02)  23/02/2025      939139      dnd                      00:52                81                       01:10:12
+  03)  04/02/2025      312130      minecraft                01:56               223                       07:11:07
+  04)  23/01/2025      312130      minecraft                01:56               132                       04:15:11
+  05)  25/01/2025      312130      minecraft                01:56               162                       05:13:11
+  06)  03/02/2025      632180      comfy                    02:02               390                       13:13:00
+  07)  11/01/2025      632180      comfy                    02:02               166                       05:37:31
+  08)  14/02/2025      702155      justchatting             02:04                83                       02:51:32
+  09)  30/01/2025      702155      justchatting             02:04               141                       04:51:24
+  10)  27/12/2024      992165      cod                      00:55               129                       01:58:15
+  11)  12/01/2025      992165      cod                      00:55               353                       05:23:34
+  12)  04/01/2025      253143      asian                    00:39               381                       04:07:39
+  13)  31/12/2024      253143      asian                    00:39               273                       02:57:27
+  14)  01/03/2025      925120      pngtuber                 01:22               391                       08:54:21
+  15)  25/01/2025      113141      lurkerfriendly           02:12               329                       12:03:48
+  16)  20/01/2025      803100      dropsenabled             01:27               221                       05:20:26
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         91:26:36
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5135.47
+========================================================================================================================
+CANAL No. 11
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      TIMTHETATMAN             T8408     15/08/2023           1.08
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  04/01/2025      693105      rerun                    01:37               119                       03:12:22
+  02)  24/02/2025      866146      marvelrivals             01:19               379                       08:19:00
+  03)  28/02/2025      380174      vibes                    00:39               154                       01:40:06
+  04)  01/02/2025      396199      pokemon                  02:01               133                       04:28:12
+  05)  21/12/2024      994181      gta                      01:12               390                       07:47:59
+  06)  04/01/2025      150144      retro                    01:21               291                       06:32:51
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         32:00:33
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1464.34
+========================================================================================================================
+CANAL No. 12
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      LIRIK                    L3779     22/07/2023           4.88
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  12/01/2025      323171      chatting                 01:52               241                       07:29:52
+  02)  23/02/2025      323171      chatting                 01:52                96                       02:59:11
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         10:29:03
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               637.87
+========================================================================================================================
+CANAL No. 13
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      RIOTGAMES                R8802     02/05/2023           4.33
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  03/03/2025      532197      python                   02:25               205                       08:15:25
+  02)  20/02/2025      323171      chatting                 01:52               362                       11:15:44
+  03)  21/12/2024      668194      speedrun                 00:50               426                       05:55:00
+  04)  06/02/2025      770185      queer                    01:36               419                       11:10:24
+  05)  23/02/2025      770185      queer                    01:36               450                       12:00:00
+  06)  17/02/2025      888106      fps                      02:07               133                       04:41:30
+  07)  04/01/2025      888106      fps                      02:07               393                       13:51:51
+  08)  03/03/2025      347108      anime                    00:37               146                       01:30:01
+  09)  14/02/2025      347108      anime                    00:37               118                       01:12:45
+  10)  18/01/2025      803100      dropsenabled             01:27               367                       08:52:08
+  11)  17/02/2025      312157      firstplaythrough         01:51               366                       11:17:06
+  12)  26/12/2024      992165      cod                      00:55               428                       06:32:19
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         96:34:17
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5875.42
+========================================================================================================================
+CANAL No. 14
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      RUBIUS                   R4559     23/06/2022           1.85
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  09/02/2025      888106      fps                      02:07               179                       06:18:52
+  02)  25/12/2024      417134      australia                01:11               150                       02:57:30
+  03)  06/01/2025      833121      pvp                      01:14               284                       05:50:16
+  04)  05/02/2025      833121      pvp                      01:14               365                       07:30:10
+  05)  21/02/2025      282183      dropsaktiviert           02:18               201                       07:42:17
+  06)  16/02/2025      282183      dropsaktiviert           02:18               212                       08:07:36
+  07)  04/01/2025      650117      pc                       02:05               373                       12:57:05
+  08)  20/01/2025      650117      pc                       02:05               125                       04:20:24
+  09)  07/01/2025      413164      australian               02:59               395                       19:38:25
+  10)  08/01/2025      276198      ia                       02:43               167                       07:33:40
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         82:56:19
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3794.19
+========================================================================================================================
+CANAL No. 15
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      AURONPLAY                A7791     06/02/2021           1.73
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  11/01/2025      678119      fun                      02:58               372                       18:23:36
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         18:23:36
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               841.44
+========================================================================================================================
+CANAL No. 16
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      MONTANABLACK88           M8346     21/05/2023           1.73
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  27/12/2024      380174      vibes                    00:39               425                       04:36:15
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         04:36:15
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               210.63
+========================================================================================================================
+CANAL No. 17
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SODAPOPPIN               S4746     12/09/2022           2.22
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  31/01/2025      150144      retro                    01:21               284                       06:23:24
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         06:23:24
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               308.02
+========================================================================================================================
+CANAL No. 18
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      HANRYANG1125             H3032     17/07/2021           3.10
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  29/01/2025      338176      chat                     01:30               204                       05:05:59
+  02)  04/02/2025      338176      chat                     01:30                98                       02:27:00
+  03)  24/02/2025      866146      marvelrivals             01:19               313                       06:52:06
+  04)  20/02/2025      866146      marvelrivals             01:19               245                       05:22:34
+  05)  19/01/2025      990168      justcchatting            00:51               423                       05:59:33
+  06)  26/12/2024      990168      justcchatting            00:51               172                       02:26:11
+  07)  24/12/2024      647182      japanese                 01:19               244                       05:21:15
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         33:34:42
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1885.77
+========================================================================================================================
+CANAL No. 19
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ALANZOKA                 A9040     02/06/2022           2.73
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  19/01/2025      714136      asmr                     02:04               392                       13:30:08
+  02)  23/01/2025      714136      asmr                     02:04               215                       07:24:20
+  03)  01/02/2025      770185      queer                    01:36               337                       08:59:12
+  04)  22/02/2025      770185      queer                    01:36               379                       10:06:23
+  05)  20/01/2025      253143      asian                    00:39               132                       01:25:47
+  06)  15/02/2025      253143      asian                    00:39               202                       02:11:18
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         43:37:10
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2102.63
+========================================================================================================================
+CANAL No. 20
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      COHHCARNAGE              C7146     15/11/2022           2.16
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  12/01/2025      970129      playingwithviewers       02:07               290                       10:13:50
+  02)  17/02/2025      373149      variety                  02:05               148                       05:08:20
+  03)  18/02/2025      323171      chatting                 01:52               440                       13:41:20
+  04)  25/01/2025      199195      code                     01:06               107                       01:57:42
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         31:01:11
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1495.29
+========================================================================================================================
+CANAL No. 21
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      LORD_KEBUN               L9091     23/01/2021           3.45
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  04/01/2025      738184      callofduty               02:16               150                       05:40:00
+  02)  05/01/2025      884135      casual                   00:35               332                       03:13:40
+  03)  13/02/2025      199195      code                     01:06               192                       03:31:12
+  04)  24/01/2025      888106      fps                      02:07               336                       11:51:12
+  05)  19/01/2025      684170      plus                     02:25               378                       15:13:29
+  06)  25/12/2024      702155      justchatting             02:04               333                       11:28:12
+  07)  29/01/2025      647182      japanese                 01:19               422                       09:15:37
+  08)  02/03/2025      323169      mmorpg                   00:39               343                       03:42:57
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         63:56:20
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3590.82
+========================================================================================================================
+CANAL No. 22
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      LCK_KOREA                L6282     11/01/2022           1.56
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  01/03/2025      199127      ???????                  01:37               116                       03:07:32
+  02)  05/01/2025      199127      ???????                  01:37               369                       09:56:32
+  03)  02/02/2025      199127      ???????                  01:37               231                       06:13:26
+  04)  21/02/2025      115115      cozy                     01:27               292                       07:03:23
+  05)  28/02/2025      115115      cozy                     01:27               450                       10:52:30
+  06)  18/01/2025      249101      chill                    02:07               388                       13:41:15
+  07)  18/02/2025      312157      firstplaythrough         01:51               299                       09:13:08
+  08)  27/12/2024      927148      multiplayer              02:18               450                       17:15:00
+  09)  31/01/2025      323171      chatting                 01:52               192                       05:58:23
+  10)  07/02/2025      254145      filipino                 02:43               316                       14:18:28
+  11)  07/01/2025      990168      justcchatting            00:51               316                       04:28:35
+  12)  08/02/2025      647182      japanese                 01:19               376                       08:15:04
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         110:23:23
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5050.00
+========================================================================================================================
+CANAL No. 23
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      CASTRO_1021              C7601     21/10/2023           2.17
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  29/01/2025      276198      ia                       02:43               161                       07:17:22
+  02)  19/02/2025      939139      dnd                      00:52                97                       01:24:03
+  03)  20/01/2025      939139      dnd                      00:52               215                       03:06:20
+  04)  26/01/2025      410154      ama                      00:47               187                       02:26:28
+  05)  17/01/2025      150144      retro                    01:21               295                       06:38:15
+  06)  26/01/2025      159152      lgbtq                    01:00               344                       05:44:00
+  07)  15/01/2025      394137      420                      02:45               165                       07:33:45
+  08)  03/01/2025      394137      420                      02:45               412                       18:52:59
+  09)  13/01/2025      396199      pokemon                  02:01               355                       11:55:54
+  10)  28/12/2024      396199      pokemon                  02:01               298                       10:00:58
+  11)  17/01/2025      401166      roblox                   02:34               121                       05:10:33
+  12)  09/01/2025      977179      lol                      02:53               253                       12:09:29
+  13)  19/02/2025      714136      asmr                     02:04               344                       11:50:56
+  14)  28/12/2024      714136      asmr                     02:04               132                       04:32:48
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         108:43:55
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5241.33
+========================================================================================================================
+CANAL No. 24
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      DRDISRESPECT             D8331     11/11/2021           2.47
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  28/02/2025      657114      dropsactivados           02:14               139                       05:10:25
+  02)  14/02/2025      731150      apex                     01:54               405                       12:49:29
+  03)  01/03/2025      373149      variety                  02:05               168                       05:49:59
+  04)  18/02/2025      373149      variety                  02:05               250                       08:40:49
+  05)  15/02/2025      347108      anime                    00:37               275                       02:49:34
+  06)  04/01/2025      714136      asmr                     02:04               438                       15:05:12
+  07)  28/12/2024      726131      drops                    02:56               314                       15:21:04
+  08)  03/02/2025      145153      gamergirl                01:37               132                       03:33:23
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         69:20:00
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3342.16
+========================================================================================================================
+CANAL No. 25
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      THEREALKNOSSI            T9764     28/10/2023           2.82
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  17/02/2025      610128      girl                     02:51               399                       18:57:09
+  02)  22/12/2024      338176      chat                     01:30               151                       03:46:29
+  03)  24/12/2024      338176      chat                     01:30               194                       04:50:59
+  04)  29/01/2025      159152      lgbtq                    01:00               228                       03:47:59
+  05)  22/01/2025      159152      lgbtq                    01:00               325                       05:25:00
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         36:47:39
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1773.63
+========================================================================================================================
+CANAL No. 26
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      THEGREFG                 T3948     05/03/2021           4.14
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  20/12/2024      726131      drops                    02:56               241                       11:46:56
+  02)  09/02/2025      726131      drops                    02:56               363                       17:44:48
+  03)  21/12/2024      323171      chatting                 01:52                89                       02:46:07
+  04)  06/02/2025      323171      chatting                 01:52               372                       11:34:23
+  05)  10/01/2025      394137      420                      02:45               124                       05:41:00
+  06)  01/02/2025      394137      420                      02:45               101                       04:37:44
+  07)  08/02/2025      242173      gameplay                 02:24               431                       17:14:23
+  08)  16/01/2025      242173      gameplay                 02:24               371                       14:50:23
+  09)  02/03/2025      914103      gaming                   02:54               105                       05:04:30
+  10)  29/01/2025      914103      gaming                   02:54               215                       10:23:30
+  11)  19/02/2025      413164      australian               02:59               147                       07:18:33
+  12)  01/02/2025      417134      australia                01:11               348                       06:51:47
+  13)  12/02/2025      125190      game                     02:40               292                       12:58:40
+  14)  29/01/2025      684170      plus                     02:25               133                       05:21:24
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         134:14:15
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              8167.01
+========================================================================================================================
+CANAL No. 27
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      YODA                     Y8760     08/03/2022           1.80
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  08/02/2025      199195      code                     01:06               208                       03:48:48
+  02)  19/02/2025      629118      rpg                      00:41               370                       04:12:50
+  03)  18/01/2025      977179      lol                      02:53               137                       06:35:00
+  04)  18/01/2025      977179      lol                      02:53               239                       11:29:07
+  05)  11/01/2025      371167      18plus                   01:33               210                       05:25:29
+  06)  17/01/2025      702155      justchatting             02:04               169                       05:49:16
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         37:20:31
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1708.29
+========================================================================================================================
+CANAL No. 28
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      PESTILY                  P7271     14/09/2023           3.06
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  29/01/2025      884135      casual                   00:35               363                       03:31:45
+  02)  06/02/2025      175109      music                    02:40               147                       06:31:59
+  03)  02/03/2025      113141      lurkerfriendly           02:12               118                       04:19:36
+  04)  14/02/2025      338176      chat                     01:30               167                       04:10:29
+  05)  21/02/2025      684170      plus                     02:25               140                       05:38:19
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         24:12:10
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1359.24
+========================================================================================================================
+CANAL No. 29
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      HANDONGSUK               H1291     03/03/2021           3.37
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  23/02/2025      249101      chill                    02:07               290                       10:13:50
+  02)  23/01/2025      249101      chill                    02:07               336                       11:51:12
+  03)  21/12/2024      249101      chill                    02:07               395                       13:56:05
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         36:01:07
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2022.81
+========================================================================================================================
+CANAL No. 30
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      GAMESDONEQUICK           G2582     11/02/2022           1.19
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  22/02/2025      888106      fps                      02:07               222                       07:49:54
+  02)  22/12/2024      867160      spanish                  01:20               311                       06:54:39
+  03)  03/03/2025      683126      chatty                   01:35                88                       02:19:20
+  04)  09/01/2025      413164      australian               02:59               166                       08:15:14
+  05)  02/01/2025      929142      mexico                   02:46               314                       14:28:44
+  06)  27/02/2025      829177      oce                      01:57                71                       02:18:26
+  07)  10/02/2025      752122      gamer                    02:15               119                       04:27:45
+  08)  18/02/2025      282183      dropsaktiviert           02:18               341                       13:04:17
+  09)  04/02/2025      726131      drops                    02:56               390                       19:03:59
+  10)  01/01/2025      255124      competitive              00:54               197                       02:57:18
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         81:39:40
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3735.75
+========================================================================================================================
+CANAL No. 31
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SOLARY                   S1310     23/08/2022           3.43
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  30/12/2024      424112      valorant                 00:52               233                       03:21:55
+  02)  21/02/2025      254145      filipino                 02:43               430                       19:28:10
+  03)  09/02/2025      276198      ia                       02:43               109                       04:56:07
+  04)  12/01/2025      529140      envtuber                 01:25               322                       07:36:10
+  05)  07/02/2025      529140      envtuber                 01:25               431                       10:10:35
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         45:32:58
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2558.06
+========================================================================================================================
+CANAL No. 32
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      GOTAGA                   G9798     21/09/2023           1.68
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  05/01/2025      657114      dropsactivados           02:14               426                       15:51:23
+  02)  08/01/2025      657114      dropsactivados           02:14               117                       04:21:18
+  03)  04/02/2025      553156      mob                      00:37               429                       04:24:33
+  04)  25/02/2025      553156      mob                      00:37               385                       03:57:25
+  05)  03/03/2025      417134      australia                01:11               190                       03:44:50
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         32:19:30
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1478.77
+========================================================================================================================
+CANAL No. 33
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      MOONMOON                 M1509     06/10/2023           1.26
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  13/01/2025      576104      adhd                     02:32                70                       02:57:19
+  02)  27/01/2025      347108      anime                    00:37               445                       04:34:24
+  03)  01/03/2025      884135      casual                   00:35               190                       01:50:50
+  04)  24/01/2025      276198      ia                       02:43               103                       04:39:48
+  05)  03/01/2025      714136      asmr                     02:04               155                       05:20:20
+  06)  22/01/2025      233158      friendly                 02:04               263                       09:03:32
+  07)  17/01/2025      553156      mob                      00:37               155                       01:35:35
+  08)  30/12/2024      531159      art                      03:00               430                       21:30:00
+  09)  03/02/2025      103172      mtg                      02:19               271                       10:27:48
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         61:59:40
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2836.06
+========================================================================================================================
+CANAL No. 34
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      DRLUPO                   D5578     14/02/2022           4.80
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  24/12/2024      347108      anime                    00:37               126                       01:17:42
+  02)  21/01/2025      254145      filipino                 02:43               102                       04:37:06
+  03)  01/02/2025      255124      competitive              00:54               201                       03:00:54
+  04)  27/02/2025      165107      fortnite                 03:00               264                       13:11:59
+  05)  09/02/2025      199195      code                     01:06               168                       03:04:48
+  06)  10/01/2025      401166      roblox                   02:34               183                       07:49:41
+  07)  14/02/2025      532197      python                   02:25               427                       17:11:54
+  08)  18/01/2025      532197      python                   02:25               268                       10:47:39
+  09)  01/01/2025      450161      cs2                      02:53               190                       09:07:50
+  10)  05/02/2025      738184      callofduty               02:16               261                       09:51:36
+  11)  13/01/2025      323171      chatting                 01:52               380                       11:49:20
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         91:50:32
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5587.70
+========================================================================================================================
+CANAL No. 35
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      OGAMINGLOL               O5486     25/11/2021           4.86
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  03/03/2025      888106      fps                      02:07               450                       15:52:30
+  02)  21/01/2025      939139      dnd                      00:52               253                       03:39:16
+  03)  21/01/2025      939139      dnd                      00:52               108                       01:33:36
+  04)  28/12/2024      410154      ama                      00:47               352                       04:35:43
+  05)  04/02/2025      410154      ama                      00:47               407                       05:18:49
+  06)  17/01/2025      380174      vibes                    00:39                81                       00:52:38
+  07)  03/03/2025      380174      vibes                    00:39               141                       01:31:39
+  08)  02/03/2025      424112      valorant                 00:52               108                       01:33:36
+  09)  08/02/2025      994181      gta                      01:12               356                       07:07:12
+  10)  23/01/2025      150144      retro                    01:21               319                       07:10:39
+  11)  22/01/2025      726131      drops                    02:56               218                       10:39:27
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         59:55:07
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3645.47
+========================================================================================================================
+CANAL No. 36
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      MYTH                     M3519     07/05/2023           4.23
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  08/01/2025      294188      dbd                      02:48               125                       05:49:59
+  02)  05/01/2025      294188      dbd                      02:48               126                       05:52:47
+  03)  08/02/2025      867160      spanish                  01:20               353                       07:50:39
+  04)  08/02/2025      867160      spanish                  01:20               429                       09:31:59
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         29:05:28
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1769.90
+========================================================================================================================
+CANAL No. 37
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      EVELONE192               E5929     03/12/2021           2.22
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  30/12/2024      501133      furry                    01:03               128                       02:14:24
+  02)  29/12/2024      501133      furry                    01:03               316                       05:31:48
+  03)  12/01/2025      450161      cs2                      02:53               171                       08:13:02
+  04)  14/01/2025      450161      cs2                      02:53               135                       06:29:14
+  05)  26/01/2025      316186      varietystreamer          01:36               333                       08:52:48
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         31:21:18
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1511.44
+========================================================================================================================
+CANAL No. 38
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      NL_KRIPP                 N4419     03/12/2023           1.39
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  03/01/2025      994181      gta                      01:12               429                       08:34:48
+  02)  21/12/2024      994181      gta                      01:12                82                       01:38:23
+  03)  23/01/2025      994181      gta                      01:12               194                       03:52:47
+  04)  27/02/2025      532197      python                   02:25               337                       13:34:24
+  05)  30/12/2024      532197      python                   02:25               365                       14:42:04
+  06)  06/01/2025      532197      python                   02:25               444                       17:52:59
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         60:15:29
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2756.64
+========================================================================================================================
+CANAL No. 39
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      LEC                      L1579     03/08/2021           3.74
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  12/02/2025      678119      fun                      02:58               430                       21:15:40
+  02)  12/02/2025      994181      gta                      01:12               368                       07:21:35
+  03)  09/01/2025      312157      firstplaythrough         01:51                87                       02:40:57
+  04)  13/01/2025      752122      gamer                    02:15               442                       16:34:29
+  05)  15/01/2025      914175      nobackseating            01:52               294                       09:08:47
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         57:01:30
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3202.54
+========================================================================================================================
+CANAL No. 40
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      DOTA2MC_RU               D8455     22/07/2021           2.76
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  30/01/2025      115115      cozy                     01:27               300                       07:15:00
+  02)  18/01/2025      693105      rerun                    01:37               247                       06:39:19
+  03)  23/02/2025      650117      pc                       02:05               368                       12:46:40
+  04)  03/03/2025      785178      xbox                     01:42               344                       09:44:47
+  05)  26/12/2024      450161      cs2                      02:53               195                       09:22:15
+  06)  10/02/2025      276198      ia                       02:43               287                       12:59:41
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         58:47:42
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2834.17
+========================================================================================================================
+CANAL No. 41
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      FRESH                    F4264     03/07/2022           1.49
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  22/12/2024      929142      mexico                   02:46               246                       11:20:36
+  02)  27/01/2025      929142      mexico                   02:46               379                       17:28:33
+  03)  23/12/2024      929142      mexico                   02:46               346                       15:57:15
+  04)  02/01/2025      678119      fun                      02:58               293                       14:29:13
+  05)  22/01/2025      678119      fun                      02:58               163                       08:03:34
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         67:19:14
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3079.71
+========================================================================================================================
+CANAL No. 42
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      LCS                      L7011     26/07/2023           2.98
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  07/01/2025      424112      valorant                 00:52               284                       04:06:07
+  02)  11/02/2025      803100      dropsenabled             01:27               370                       08:56:29
+  03)  25/01/2025      803100      dropsenabled             01:27                90                       02:10:29
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         15:13:08
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               733.61
+========================================================================================================================
+CANAL No. 43
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ROSHTEIN                 R8400     05/11/2023           1.14
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  30/12/2024      413164      australian               02:59               265                       13:10:35
+  02)  06/02/2025      413164      australian               02:59                89                       04:25:30
+  03)  17/02/2025      547147      live                     01:15               168                       03:30:00
+  04)  12/01/2025      547147      live                     01:15               154                       03:12:30
+  05)  04/02/2025      547147      live                     01:15               324                       06:45:00
+  06)  03/02/2025      531159      art                      03:00               112                       05:35:59
+  07)  14/01/2025      531159      art                      03:00               218                       10:54:00
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         47:33:35
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2175.73
+========================================================================================================================
+CANAL No. 44
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      IBAI                     I1429     20/02/2022           4.64
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  13/01/2025      684170      plus                     02:25               373                       15:01:24
+  02)  16/01/2025      531159      art                      03:00               318                       15:54:00
+  03)  11/01/2025      531159      art                      03:00               199                       09:56:59
+  04)  26/02/2025      312130      minecraft                01:56               287                       09:14:51
+  05)  19/01/2025      704111      ranked                   02:51               208                       09:52:48
+  06)  30/01/2025      410154      ama                      00:47               100                       01:18:20
+  07)  31/01/2025      233158      friendly                 02:04               113                       03:53:32
+  08)  10/01/2025      553156      mob                      00:37               331                       03:24:07
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         68:36:03
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4173.69
+========================================================================================================================
+CANAL No. 45
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      TFBLADE                  T3388     19/01/2023           2.04
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  14/02/2025      165107      fortnite                 03:00                96                       04:47:59
+  02)  14/01/2025      165107      fortnite                 03:00                78                       03:53:59
+  03)  03/03/2025      165107      fortnite                 03:00               186                       09:18:00
+  04)  13/01/2025      657114      dropsactivados           02:14               305                       11:21:10
+  05)  05/01/2025      657114      dropsactivados           02:14               296                       11:01:04
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         40:22:13
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1946.02
+========================================================================================================================
+CANAL No. 46
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SARDOCHE                 S5697     09/11/2023           3.65
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  01/03/2025      693105      rerun                    01:37               341                       09:11:17
+  02)  03/01/2025      150144      retro                    01:21               241                       05:25:21
+  03)  10/01/2025      254145      filipino                 02:43               325                       14:42:55
+  04)  07/01/2025      312157      firstplaythrough         01:51               288                       08:52:48
+  05)  26/01/2025      888106      fps                      02:07               176                       06:12:32
+  06)  04/02/2025      450161      cs2                      02:53               304                       14:36:31
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         59:01:25
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3314.77
+========================================================================================================================
+CANAL No. 47
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      LCK                      L3977     23/11/2023           2.25
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  10/01/2025      833121      pvp                      01:14               347                       07:07:58
+  02)  20/12/2024      833121      pvp                      01:14               399                       08:12:05
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         15:20:04
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               739.18
+========================================================================================================================
+CANAL No. 48
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      YASSUO                   Y6400     05/07/2022           3.08
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  22/12/2024      547147      live                     01:15                96                       02:00:00
+  02)  30/01/2025      145153      gamergirl                01:37               388                       10:27:15
+  03)  08/02/2025      145153      gamergirl                01:37               318                       08:34:06
+  04)  26/02/2025      254145      filipino                 02:43               366                       16:34:18
+  05)  22/02/2025      254145      filipino                 02:43               273                       12:21:39
+  06)  16/02/2025      704111      ranked                   02:51               392                       18:37:12
+  07)  24/01/2025      704111      ranked                   02:51               442                       20:59:42
+  08)  14/01/2025      678119      fun                      02:58               423                       20:54:54
+  09)  12/02/2025      255124      competitive              00:54               398                       05:58:11
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         116:27:19
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              6540.13
+========================================================================================================================
+CANAL No. 49
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      HASANABI                 H8371     06/06/2023           3.19
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  02/02/2025      242173      gameplay                 02:24                86                       03:26:23
+  02)  09/01/2025      276198      ia                       02:43               207                       09:22:21
+  03)  11/01/2025      401166      roblox                   02:34               307                       13:07:57
+  04)  02/02/2025      992165      cod                      00:55               338                       05:09:49
+  05)  15/02/2025      939139      dnd                      00:52               160                       02:18:40
+  06)  03/02/2025      939139      dnd                      00:52               376                       05:25:51
+  07)  13/01/2025      803100      dropsenabled             01:27               390                       09:25:30
+  08)  02/02/2025      833121      pvp                      01:14               440                       09:02:40
+  09)  26/02/2025      970129      playingwithviewers       02:07               291                       10:15:57
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         67:35:11
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3795.67
+========================================================================================================================
+CANAL No. 50
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      BEYONDTHESUMMIT          B5216     07/11/2023           1.74
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  11/01/2025      255124      competitive              00:54               119                       01:47:06
+  02)  12/01/2025      866151      dropsactivés             00:42               223                       02:36:05
+  03)  02/03/2025      338176      chat                     01:30               198                       04:57:00
+  04)  07/02/2025      970129      playingwithviewers       02:07               386                       13:37:01
+  05)  16/02/2025      970129      playingwithviewers       02:07               337                       11:53:19
+  06)  13/01/2025      139193      pve                      01:15               381                       07:56:15
+  07)  21/12/2024      139193      pve                      01:15               124                       02:35:00
+  08)  23/01/2025      629118      rpg                      00:41               450                       05:07:30
+  09)  19/01/2025      360187      dota2                    02:11               439                       15:58:28
+  10)  02/03/2025      570116      safespace                01:39               272                       07:28:47
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         73:56:34
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3382.67
+========================================================================================================================
+CANAL No. 51
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      DOTA2RUHUB               D5405     09/09/2021           4.88
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  17/02/2025      610128      girl                     02:51                75                       03:33:45
+  02)  19/02/2025      316186      varietystreamer          01:36               139                       03:42:23
+  03)  11/01/2025      242173      gameplay                 02:24               419                       16:45:35
+  04)  12/01/2025      992165      cod                      00:55               340                       05:11:39
+  05)  09/02/2025      150144      retro                    01:21               136                       03:03:36
+  06)  05/01/2025      150144      retro                    01:21               294                       06:36:54
+  07)  08/01/2025      990168      justcchatting            00:51               389                       05:30:38
+  08)  01/03/2025      990168      justcchatting            00:51               354                       05:00:53
+  09)  17/01/2025      978138      shooter                  01:54               159                       05:02:05
+  10)  06/02/2025      978138      shooter                  01:54               427                       13:31:17
+  11)  07/02/2025      461163      dropsRussian             02:54               430                       20:47:00
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         88:45:52
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5400.43
+========================================================================================================================
+CANAL No. 52
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      BUGHA                    B7744     16/02/2021           4.10
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  03/03/2025      867123      irl                      01:55                89                       02:50:34
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         02:50:34
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               172.97
+========================================================================================================================
+CANAL No. 53
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ROCKETLEAGUE             R3240     04/06/2021           4.76
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  22/01/2025      731150      apex                     01:54                95                       03:00:29
+  02)  18/01/2025      323169      mmorpg                   00:39               276                       02:59:24
+  03)  25/02/2025      323169      mmorpg                   00:39               322                       03:29:18
+  04)  28/01/2025      323169      mmorpg                   00:39               431                       04:40:09
+  05)  29/12/2024      461163      dropsRussian             02:54               296                       14:18:23
+  06)  23/12/2024      461163      dropsRussian             02:54               307                       14:50:17
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         43:18:03
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2634.42
+========================================================================================================================
+CANAL No. 54
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      CSGOMC_RU                C8596     28/01/2021           4.58
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  31/12/2024      833121      pvp                      01:14               220                       04:31:20
+  02)  18/01/2025      678119      fun                      02:58               313                       15:28:34
+  03)  07/02/2025      614102      vtuber                   01:59               436                       14:24:44
+  04)  09/01/2025      347108      anime                    00:37               124                       01:16:28
+  05)  23/12/2024      347108      anime                    00:37               393                       04:02:21
+  06)  10/02/2025      978138      shooter                  01:54               350                       11:05:00
+  07)  01/01/2025      978138      shooter                  01:54               407                       12:53:17
+  08)  02/03/2025      726131      drops                    02:56               149                       07:17:04
+  09)  02/01/2025      726131      drops                    02:56               227                       11:05:51
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         82:04:40
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4993.63
+========================================================================================================================
+CANAL No. 55
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      CLIX                     C7100     28/05/2022           3.39
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  01/02/2025      424112      valorant                 00:52               431                       06:13:32
+  02)  03/02/2025      610128      girl                     02:51               209                       09:55:39
+  03)  31/01/2025      726131      drops                    02:56               197                       09:37:52
+  04)  09/01/2025      738184      callofduty               02:16               408                       15:24:47
+  05)  24/01/2025      738184      callofduty               02:16               343                       12:57:28
+  06)  27/12/2024      693105      rerun                    01:37               285                       07:40:44
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         61:50:04
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3472.62
+========================================================================================================================
+CANAL No. 56
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      GORGC                    G6496     22/01/2023           4.69
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  05/01/2025      888106      fps                      02:07               187                       06:35:49
+  02)  16/01/2025      531159      art                      03:00               416                       20:48:00
+  03)  30/01/2025      531159      art                      03:00               439                       21:56:59
+  04)  07/01/2025      373149      variety                  02:05               345                       11:58:44
+  05)  07/02/2025      576104      adhd                     02:32               128                       05:24:16
+  06)  22/02/2025      629118      rpg                      00:41               204                       02:19:23
+  07)  28/12/2024      486125      horror                   01:11               336                       06:37:36
+  08)  10/01/2025      312130      minecraft                01:56               181                       05:49:56
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         81:30:45
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4959.24
+========================================================================================================================
+CANAL No. 57
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SADDUMMY                 S1190     04/11/2022           1.35
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  27/01/2025      992165      cod                      00:55               445                       06:47:54
+  02)  26/12/2024      992165      cod                      00:55               422                       06:26:49
+  03)  10/01/2025      450161      cs2                      02:53               232                       11:08:55
+  04)  29/12/2024      450161      cs2                      02:53               428                       20:34:03
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         44:57:44
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2056.90
+========================================================================================================================
+CANAL No. 58
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      NOWAY4U_SIR              N4181     19/03/2023           1.78
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  15/02/2025      396199      pokemon                  02:01               261                       08:46:21
+  02)  31/01/2025      312130      minecraft                01:56               260                       08:22:40
+  03)  12/01/2025      939139      dnd                      00:52               396                       05:43:11
+  04)  28/01/2025      650117      pc                       02:05               239                       08:17:54
+  05)  16/02/2025      629118      rpg                      00:41               333                       03:47:32
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         34:57:41
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1599.38
+========================================================================================================================
+CANAL No. 59
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      RIOTGAMESBRAZIL          R8170     16/01/2023           1.18
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  23/12/2024      312157      firstplaythrough         01:51               420                       12:56:59
+  02)  01/01/2025      450161      cs2                      02:53                92                       04:25:16
+  03)  27/12/2024      360187      dota2                    02:11               132                       04:48:11
+  04)  29/01/2025      253143      asian                    00:39               133                       01:26:27
+  05)  24/02/2025      461163      dropsRussian             02:54               131                       06:19:53
+  06)  16/01/2025      396199      pokemon                  02:01                95                       03:11:34
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         33:08:24
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1516.06
+========================================================================================================================
+CANAL No. 60
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      JLTOMY                   J3324     28/05/2023           2.30
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  02/02/2025      979189      repeat                   00:57               205                       03:14:44
+  02)  04/01/2025      979189      repeat                   00:57               243                       03:50:50
+  03)  08/02/2025      424112      valorant                 00:52               135                       01:57:00
+  04)  26/01/2025      233158      friendly                 02:04               238                       08:11:52
+  05)  02/03/2025      867123      irl                      01:55               187                       05:58:24
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         23:12:52
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1119.04
+========================================================================================================================
+CANAL No. 61
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SOLARYFORTNITE           S7241     25/12/2022           2.55
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  07/02/2025      276198      ia                       02:43               242                       10:57:26
+  02)  14/01/2025      785178      xbox                     01:42               285                       08:04:29
+  03)  05/02/2025      785178      xbox                     01:42               371                       10:30:41
+  04)  02/01/2025      738184      callofduty               02:16               423                       15:58:47
+  05)  21/12/2024      738184      callofduty               02:16               392                       14:48:32
+  06)  04/02/2025      833121      pvp                      01:14               238                       04:53:31
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         65:13:29
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3144.11
+========================================================================================================================
+CANAL No. 62
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ONSCREEN                 O4446     27/02/2022           2.09
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  04/02/2025      726131      drops                    02:56               416                       20:20:16
+  02)  26/12/2024      576104      adhd                     02:32               383                       16:10:15
+  03)  20/12/2024      784162      chattingwithviewers      02:47               232                       10:45:44
+  04)  11/01/2025      242173      gameplay                 02:24               358                       14:19:11
+  05)  02/03/2025      678119      fun                      02:58               279                       13:47:41
+  06)  21/01/2025      678119      fun                      02:58               186                       09:11:48
+  07)  24/12/2024      647182      japanese                 01:19               268                       05:52:52
+  08)  02/03/2025      647182      japanese                 01:19               384                       08:25:36
+  09)  24/12/2024      276198      ia                       02:43               117                       05:17:51
+  10)  04/02/2025      338176      chat                     01:30               173                       04:19:30
+  11)  09/02/2025      175109      music                    02:40               282                       12:31:59
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         121:02:47
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5834.92
+========================================================================================================================
+CANAL No. 63
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ADMIRALBAHROO            A6986     07/06/2022           4.31
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  29/12/2024      726131      drops                    02:56               158                       07:43:28
+  02)  04/01/2025      726131      drops                    02:56               378                       18:28:48
+  03)  29/01/2025      867123      irl                      01:55               208                       06:38:39
+  04)  28/01/2025      867123      irl                      01:55               107                       03:25:04
+  05)  22/01/2025      276198      ia                       02:43               429                       19:25:27
+  06)  23/12/2024      276198      ia                       02:43               291                       13:10:33
+  07)  21/02/2025      360187      dota2                    02:11               258                       09:23:17
+  08)  06/02/2025      360187      dota2                    02:11               134                       04:52:34
+  09)  25/12/2024      731150      apex                     01:54               285                       09:01:30
+  10)  23/02/2025      731150      apex                     01:54               445                       14:05:30
+  11)  19/02/2025      461163      dropsRussian             02:54                92                       04:26:48
+  12)  08/02/2025      401166      roblox                   02:34               184                       07:52:15
+  13)  30/01/2025      371167      18plus                   01:33               170                       04:23:29
+  14)  21/01/2025      632180      comfy                    02:02               333                       11:17:05
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         134:14:33
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              8167.31
+========================================================================================================================
+CANAL No. 64
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      QUIN69                   Q1190     28/07/2022           2.43
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  02/01/2025      103172      mtg                      02:19               104                       04:00:55
+  02)  09/02/2025      139193      pve                      01:15               296                       06:10:00
+  03)  23/01/2025      115115      cozy                     01:27               305                       07:22:15
+  04)  05/01/2025      925120      pngtuber                 01:22               378                       08:36:36
+  05)  05/02/2025      650117      pc                       02:05               333                       11:33:45
+  06)  25/02/2025      371167      18plus                   01:33               229                       05:54:57
+  07)  02/01/2025      371167      18plus                   01:33               356                       09:11:48
+  08)  20/02/2025      752122      gamer                    02:15               403                       15:06:45
+  09)  25/12/2024      752122      gamer                    02:15               360                       13:30:00
+  10)  05/01/2025      752122      gamer                    02:15               100                       03:45:00
+  11)  19/02/2025      529140      envtuber                 01:25                72                       01:42:00
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         86:54:01
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4188.95
+========================================================================================================================
+CANAL No. 65
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      TRYMACS                  T2200     22/12/2022           2.12
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  29/01/2025      253143      asian                    00:39               138                       01:29:42
+  02)  08/01/2025      829177      oce                      01:57               234                       07:36:18
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         09:05:59
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               438.66
+========================================================================================================================
+CANAL No. 66
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      DASMEHDI                 D5218     17/01/2023           3.17
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  10/02/2025      576104      adhd                     02:32               241                       10:10:31
+  02)  25/12/2024      576104      adhd                     02:32               134                       05:39:27
+  03)  09/02/2025      576104      adhd                     02:32               253                       10:40:55
+  04)  13/02/2025      979189      repeat                   00:57               215                       03:24:15
+  05)  26/01/2025      979189      repeat                   00:57               180                       02:51:00
+  06)  20/02/2025      979189      repeat                   00:57               449                       07:06:32
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         39:52:44
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2239.60
+========================================================================================================================
+CANAL No. 67
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SNEAKYLOL                S3642     19/10/2021           1.56
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  27/12/2024      394137      420                      02:45               400                       18:19:59
+  02)  09/02/2025      925120      pngtuber                 01:22               402                       09:09:23
+  03)  03/01/2025      925120      pngtuber                 01:22               295                       06:43:10
+  04)  21/12/2024      714136      asmr                     02:04               241                       08:18:04
+  05)  26/02/2025      714136      asmr                     02:04               173                       05:57:32
+  06)  23/12/2024      714136      asmr                     02:04               141                       04:51:24
+  07)  04/01/2025      115115      cozy                     01:27               380                       09:11:00
+  08)  15/02/2025      115115      cozy                     01:27               208                       05:01:35
+  09)  07/02/2025      570116      safespace                01:39               378                       10:23:41
+  10)  30/01/2025      570116      safespace                01:39               373                       10:15:26
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         88:11:19
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4034.36
+========================================================================================================================
+CANAL No. 68
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      NICKEH30                 N2362     25/04/2021           4.21
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  30/01/2025      373149      variety                  02:05               348                       12:05:00
+  02)  22/01/2025      994181      gta                      01:12               121                       02:25:11
+  03)  28/01/2025      994181      gta                      01:12               321                       06:25:11
+  04)  18/01/2025      647182      japanese                 01:19                90                       01:58:30
+  05)  02/02/2025      647182      japanese                 01:19               356                       07:48:44
+  06)  25/01/2025      103172      mtg                      02:19               119                       04:35:40
+  07)  14/02/2025      103172      mtg                      02:19               246                       09:29:53
+  08)  26/12/2024      657114      dropsactivados           02:14               304                       11:18:56
+  09)  02/03/2025      657114      dropsactivados           02:14                73                       02:43:01
+  10)  25/01/2025      282183      dropsaktiviert           02:18               170                       06:30:59
+  11)  27/02/2025      282183      dropsaktiviert           02:18               211                       08:05:17
+  12)  20/02/2025      704111      ranked                   02:51               186                       08:50:06
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         82:16:35
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5005.70
+========================================================================================================================
+CANAL No. 69
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      FPS_SHAKA                F8545     10/06/2023           1.30
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  13/01/2025      867123      irl                      01:55               247                       07:53:24
+  02)  12/01/2025      159152      lgbtq                    01:00               166                       02:46:00
+  03)  26/02/2025      165107      fortnite                 03:00               369                       18:26:59
+  04)  21/12/2024      175109      music                    02:40               189                       08:24:00
+  05)  16/01/2025      276198      ia                       02:43               196                       08:52:27
+  06)  21/02/2025      145153      gamergirl                01:37               228                       06:08:36
+  07)  16/02/2025      738184      callofduty               02:16               108                       04:04:48
+  08)  19/01/2025      738184      callofduty               02:16               113                       04:16:08
+  09)  17/02/2025      255124      competitive              00:54               307                       04:36:18
+  10)  16/02/2025      927148      multiplayer              02:18               123                       04:42:53
+  11)  17/02/2025      186113      warzone                  01:48               109                       03:16:12
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         73:27:48
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3360.74
+========================================================================================================================
+CANAL No. 70
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      LVPES                    L7416     23/10/2023           4.95
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  16/01/2025      199195      code                     01:06               353                       06:28:18
+  02)  25/01/2025      784162      chattingwithviewers      02:47               318                       14:45:05
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         21:13:23
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1291.23
+========================================================================================================================
+CANAL No. 71
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      VADER                    V7711     13/12/2021           4.09
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  04/02/2025      413164      australian               02:59               183                       09:05:57
+  02)  23/12/2024      576104      adhd                     02:32               230                       09:42:39
+  03)  03/01/2025      576104      adhd                     02:32               139                       05:52:07
+  04)  23/01/2025      372132      ps5                      01:16               109                       02:18:03
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         26:58:48
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1641.48
+========================================================================================================================
+CANAL No. 72
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      FORSEN                   F7849     28/07/2022           1.79
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  26/02/2025      396199      pokemon                  02:01               174                       05:50:53
+  02)  04/01/2025      702155      justchatting             02:04               344                       11:50:56
+  03)  31/12/2024      702155      justchatting             02:04               289                       09:57:16
+  04)  05/02/2025      647182      japanese                 01:19               130                       02:51:09
+  05)  24/01/2025      647182      japanese                 01:19               261                       05:43:39
+  06)  30/12/2024      461163      dropsRussian             02:54               160                       07:44:00
+  07)  17/01/2025      461163      dropsRussian             02:54               419                       20:15:05
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         64:13:01
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2937.73
+========================================================================================================================
+CANAL No. 73
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      PAPAPLATTE               P2391     13/10/2022           1.02
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  23/12/2024      752122      gamer                    02:15               243                       09:06:45
+  02)  26/12/2024      424112      valorant                 00:52                96                       01:23:12
+  03)  14/02/2025      410154      ama                      00:47               127                       01:39:29
+  04)  21/01/2025      380174      vibes                    00:39               351                       03:48:09
+  05)  11/01/2025      531159      art                      03:00               253                       12:39:00
+  06)  30/01/2025      276198      ia                       02:43               140                       06:20:20
+  07)  05/02/2025      323169      mmorpg                   00:39               411                       04:27:09
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         39:24:04
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1802.48
+========================================================================================================================
+CANAL No. 74
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      STARLADDER_CS_EN         S3140     09/11/2021           4.26
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  02/03/2025      647182      japanese                 01:19               194                       04:15:26
+  02)  24/12/2024      255124      competitive              00:54               281                       04:12:53
+  03)  11/02/2025      316186      varietystreamer          01:36               162                       04:19:11
+  04)  28/02/2025      829177      oce                      01:57                99                       03:13:02
+  05)  07/01/2025      668194      speedrun                 00:50               288                       04:00:00
+  06)  21/01/2025      396199      pokemon                  02:01               295                       09:54:55
+  07)  15/02/2025      103172      mtg                      02:19               263                       10:09:17
+  08)  01/02/2025      249101      chill                    02:07               141                       04:58:26
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         45:03:13
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2741.08
+========================================================================================================================
+CANAL No. 75
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SYMFUHNY                 S8567     08/06/2023           3.83
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  10/01/2025      276198      ia                       02:43               342                       15:29:06
+  02)  26/01/2025      576104      adhd                     02:32               316                       13:20:32
+  03)  09/01/2025      650117      pc                       02:05                83                       02:52:55
+  04)  15/02/2025      650117      pc                       02:05               119                       04:07:55
+  05)  02/01/2025      914175      nobackseating            01:52               176                       05:28:32
+  06)  07/01/2025      914175      nobackseating            01:52               157                       04:53:03
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         46:12:03
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2594.65
+========================================================================================================================
+CANAL No. 76
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      DREAMHACKCS              D4404     15/05/2022           3.92
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  20/01/2025      683126      chatty                   01:35               442                       11:39:50
+  02)  27/12/2024      396199      pokemon                  02:01               440                       14:47:19
+  03)  29/01/2025      770185      queer                    01:36               339                       09:02:23
+  04)  04/01/2025      255124      competitive              00:54               333                       04:59:42
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         40:29:15
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2273.79
+========================================================================================================================
+CANAL No. 77
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      MIZKIF                   M9510     15/10/2021           4.09
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  01/03/2025      529140      envtuber                 01:25               185                       04:22:05
+  02)  27/01/2025      529140      envtuber                 01:25               249                       05:52:44
+  03)  16/02/2025      380174      vibes                    00:39               381                       04:07:39
+  04)  28/12/2024      731150      apex                     01:54                77                       02:26:17
+  05)  30/01/2025      531159      art                      03:00               113                       05:39:00
+  06)  21/12/2024      867123      irl                      01:55               245                       07:49:34
+  07)  13/01/2025      103172      mtg                      02:19               249                       09:36:50
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         39:54:12
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2427.74
+========================================================================================================================
+CANAL No. 78
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      RAINBOW6                 R5631     16/01/2021           1.30
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  24/01/2025      396199      pokemon                  02:01               135                       04:32:14
+  02)  27/01/2025      486125      horror                   01:11               380                       07:29:40
+  03)  25/02/2025      547147      live                     01:15               373                       07:46:14
+  04)  01/03/2025      547147      live                     01:15                98                       02:02:29
+  05)  24/12/2024      570116      safespace                01:39               109                       02:59:51
+  06)  06/01/2025      570116      safespace                01:39               347                       09:32:32
+  07)  22/12/2024      650117      pc                       02:05                81                       02:48:45
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         37:11:48
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1701.65
+========================================================================================================================
+CANAL No. 79
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      STYLISHNOOB4             S3421     06/12/2022           2.43
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  17/01/2025      632180      comfy                    02:02               154                       05:13:07
+  02)  08/01/2025      914103      gaming                   02:54               206                       09:57:24
+  03)  09/01/2025      914103      gaming                   02:54               290                       14:01:00
+  04)  28/12/2024      461163      dropsRussian             02:54                73                       03:31:41
+  05)  26/01/2025      785178      xbox                     01:42               203                       05:45:05
+  06)  30/01/2025      249101      chill                    02:07               328                       11:34:16
+  07)  24/02/2025      884135      casual                   00:35               348                       03:23:00
+  08)  12/01/2025      629118      rpg                      00:41               284                       03:14:03
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         56:39:40
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2731.29
+========================================================================================================================
+CANAL No. 80
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      MAXIMILIAN_DOOD          M8596     26/12/2021           1.46
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  17/02/2025      684170      plus                     02:25               248                       09:59:19
+  02)  24/02/2025      360187      dota2                    02:11               113                       04:06:42
+  03)  13/02/2025      253143      asian                    00:39               190                       02:03:29
+  04)  09/01/2025      803100      dropsenabled             01:27               424                       10:14:47
+  05)  12/02/2025      866146      marvelrivals             01:19               423                       09:16:57
+  06)  31/12/2024      233158      friendly                 02:04               408                       14:03:12
+  07)  17/01/2025      867123      irl                      01:55               329                       10:30:34
+  08)  01/01/2025      875110      funny                    02:15               171                       06:24:44
+  09)  31/12/2024      914103      gaming                   02:54               123                       05:56:41
+  10)  20/01/2025      914103      gaming                   02:54               152                       07:20:48
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         79:57:19
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3657.73
+========================================================================================================================
+CANAL No. 81
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      TRAINWRECKSTV            T9012     23/01/2021           4.45
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  22/02/2025      547147      live                     01:15               187                       03:53:45
+  02)  28/01/2025      276198      ia                       02:43               400                       18:06:39
+  03)  20/01/2025      867160      spanish                  01:20               377                       08:22:39
+  04)  07/02/2025      531159      art                      03:00               179                       08:56:59
+  05)  12/01/2025      531159      art                      03:00               212                       10:35:59
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         49:56:05
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3038.03
+========================================================================================================================
+CANAL No. 82
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      DOTA2TI                  D7358     10/10/2022           3.49
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  26/01/2025      347108      anime                    00:37               155                       01:35:35
+  02)  14/02/2025      316186      varietystreamer          01:36                93                       02:28:47
+  03)  10/02/2025      316186      varietystreamer          01:36               408                       10:52:48
+  04)  30/12/2024      668194      speedrun                 00:50               169                       02:20:50
+  05)  24/01/2025      254145      filipino                 02:43               300                       13:35:00
+  06)  30/01/2025      803100      dropsenabled             01:27                90                       02:10:29
+  07)  29/01/2025      678119      fun                      02:58               105                       05:11:29
+  08)  01/01/2025      186113      warzone                  01:48               186                       05:34:48
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         43:49:48
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2461.51
+========================================================================================================================
+CANAL No. 83
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      GRONKH                   G2937     12/12/2023           2.32
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  17/01/2025      413164      australian               02:59               139                       06:54:41
+  02)  26/12/2024      461163      dropsRussian             02:54               392                       18:56:47
+  03)  23/02/2025      914103      gaming                   02:54               288                       13:55:11
+  04)  23/01/2025      914103      gaming                   02:54               335                       16:11:29
+  05)  07/01/2025      312130      minecraft                01:56               123                       03:57:48
+  06)  21/01/2025      103172      mtg                      02:19               209                       08:04:10
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         68:00:10
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3278.01
+========================================================================================================================
+CANAL No. 84
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SYPHERPK                 S2467     04/08/2023           1.25
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  07/02/2025      276198      ia                       02:43                99                       04:28:56
+  02)  06/02/2025      254145      filipino                 02:43               345                       15:37:15
+  03)  27/12/2024      461163      dropsRussian             02:54               276                       13:20:23
+  04)  13/01/2025      249101      chill                    02:07               294                       10:22:17
+  05)  04/01/2025      979189      repeat                   00:57                97                       01:32:08
+  06)  26/12/2024      979189      repeat                   00:57               360                       05:42:00
+  07)  05/02/2025      113141      lurkerfriendly           02:12               385                       14:07:00
+  08)  06/02/2025      914175      nobackseating            01:52               303                       09:25:36
+  09)  20/02/2025      150144      retro                    01:21               372                       08:22:12
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         82:57:50
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3795.36
+========================================================================================================================
+CANAL No. 85
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ZERATOR                  Z5539     18/05/2021           2.24
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  12/02/2025      323169      mmorpg                   00:39               297                       03:13:03
+  02)  12/02/2025      647182      japanese                 01:19               250                       05:29:10
+  03)  02/03/2025      165107      fortnite                 03:00               403                       20:08:59
+  04)  12/02/2025      165107      fortnite                 03:00               379                       18:56:59
+  05)  18/02/2025      770185      queer                    01:36               158                       04:12:48
+  06)  24/12/2024      770185      queer                    01:36               297                       07:55:12
+  07)  02/02/2025      417134      australia                01:11               379                       07:28:29
+  08)  08/01/2025      531159      art                      03:00               155                       07:45:00
+  09)  05/01/2025      553156      mob                      00:37               282                       02:53:54
+  10)  23/01/2025      553156      mob                      00:37               124                       01:16:28
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         79:20:03
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3824.24
+========================================================================================================================
+CANAL No. 86
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SILVERNAME               S2804     27/04/2022           2.30
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  28/01/2025      614102      vtuber                   01:59               346                       11:26:14
+  02)  21/01/2025      629118      rpg                      00:41               252                       02:52:12
+  03)  20/01/2025      276198      ia                       02:43               295                       13:21:25
+  04)  09/01/2025      939139      dnd                      00:52               418                       06:02:15
+  05)  03/01/2025      803100      dropsenabled             01:27               213                       05:08:50
+  06)  27/02/2025      175109      music                    02:40               192                       08:31:59
+  07)  18/01/2025      175109      music                    02:40               389                       17:17:19
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         64:40:18
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3117.43
+========================================================================================================================
+CANAL No. 87
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SACRIEL                  S3053     15/08/2022           3.92
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  01/03/2025      532197      python                   02:25               423                       17:02:14
+  02)  21/02/2025      867123      irl                      01:55               107                       03:25:04
+  03)  03/02/2025      990168      justcchatting            00:51               207                       02:55:56
+  04)  23/02/2025      990168      justcchatting            00:51               255                       03:36:44
+  05)  15/02/2025      242173      gameplay                 02:24               143                       05:43:11
+  06)  21/02/2025      401166      roblox                   02:34               417                       17:50:17
+  07)  23/01/2025      866146      marvelrivals             01:19               283                       06:12:37
+  08)  24/12/2024      647182      japanese                 01:19               387                       08:29:32
+  09)  11/01/2025      199127      ???????                  01:37               418                       11:15:46
+  10)  04/02/2025      576104      adhd                     02:32               317                       13:23:03
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         89:54:32
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              5049.28
+========================================================================================================================
+CANAL No. 88
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      DAKOTAZ                  D6138     27/11/2021           3.55
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  02/01/2025      175109      music                    02:40               393                       17:27:59
+  02)  15/02/2025      175109      music                    02:40               206                       09:09:19
+  03)  01/02/2025      175109      music                    02:40               269                       11:57:19
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         38:34:39
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2166.53
+========================================================================================================================
+CANAL No. 89
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      STRAY228                 S5888     13/11/2023           4.55
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  26/02/2025      650117      pc                       02:05                91                       03:09:35
+  02)  22/02/2025      693105      rerun                    01:37               147                       03:57:39
+  03)  21/12/2024      610128      girl                     02:51               388                       18:25:47
+  04)  12/01/2025      529140      envtuber                 01:25               206                       04:51:50
+  05)  05/02/2025      529140      envtuber                 01:25               194                       04:34:50
+  06)  02/03/2025      684170      plus                     02:25               404                       16:16:19
+  07)  11/02/2025      994181      gta                      01:12               142                       02:50:24
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         54:06:26
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3291.88
+========================================================================================================================
+CANAL No. 90
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ADMIRALBULLDOG           A1911     01/10/2022           2.89
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  09/02/2025      929142      mexico                   02:46               131                       06:02:26
+  02)  03/01/2025      929142      mexico                   02:46               210                       09:41:00
+  03)  25/12/2024      929142      mexico                   02:46               316                       14:34:16
+  04)  09/02/2025      929142      mexico                   02:46               328                       15:07:27
+  05)  04/01/2025      738184      callofduty               02:16               187                       07:03:52
+  06)  25/02/2025      738184      callofduty               02:16               419                       15:49:43
+  07)  12/02/2025      738184      callofduty               02:16               397                       14:59:51
+  08)  29/01/2025      738184      callofduty               02:16               348                       13:08:47
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         96:27:26
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4649.62
+========================================================================================================================
+CANAL No. 91
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      POKIMANE                 P1205     10/11/2023           1.48
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  01/01/2025      282183      dropsaktiviert           02:18               217                       08:19:06
+  02)  25/02/2025      115115      cozy                     01:27               379                       09:09:32
+  03)  19/01/2025      977179      lol                      02:53               231                       11:06:02
+  04)  25/02/2025      254145      filipino                 02:43               444                       20:06:12
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         48:40:53
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2227.04
+========================================================================================================================
+CANAL No. 92
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      LESTREAM                 L6570     06/08/2023           3.85
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  08/01/2025      450161      cs2                      02:53               321                       15:25:32
+  02)  21/02/2025      501133      furry                    01:03                81                       01:25:02
+  03)  01/01/2025      125190      game                     02:40               202                       08:58:40
+  04)  22/12/2024      125190      game                     02:40               388                       17:14:39
+  05)  03/02/2025      373149      variety                  02:05               412                       14:18:19
+  06)  12/02/2025      373149      variety                  02:05               372                       12:54:59
+  07)  22/02/2025      994181      gta                      01:12               165                       03:17:59
+  08)  26/02/2025      731150      apex                     01:54               201                       06:21:53
+  09)  03/02/2025      360187      dota2                    02:11               329                       11:58:18
+  10)  11/01/2025      683126      chatty                   01:35               304                       08:01:19
+  11)  16/02/2025      371167      18plus                   01:33               420                       10:50:59
+  12)  10/02/2025      233158      friendly                 02:04                85                       02:55:40
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         113:43:28
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              6386.78
+========================================================================================================================
+CANAL No. 93
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      YBICANOOOOBOV            Y3725     17/05/2022           4.04
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  12/02/2025      417134      australia                01:11               411                       08:06:20
+  02)  19/01/2025      255124      competitive              00:54               330                       04:57:00
+  03)  08/02/2025      714136      asmr                     02:04               405                       13:57:00
+  04)  01/02/2025      714136      asmr                     02:04               145                       04:59:40
+  05)  04/02/2025      242173      gameplay                 02:24               134                       05:21:35
+  06)  09/02/2025      833121      pvp                      01:14               232                       04:46:08
+  07)  24/12/2024      199127      ???????                  01:37               380                       10:14:20
+  08)  26/01/2025      199127      ???????                  01:37               148                       03:59:16
+  09)  25/02/2025      867123      irl                      01:55               141                       04:30:14
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         60:51:36
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3702.72
+========================================================================================================================
+CANAL No. 94
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      METHOD                   M9840     09/06/2022           3.25
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  02/01/2025      312157      firstplaythrough         01:51               290                       08:56:29
+  02)  28/01/2025      312157      firstplaythrough         01:51               429                       13:13:39
+  03)  17/02/2025      417134      australia                01:11               398                       07:50:58
+  04)  17/01/2025      784162      chattingwithviewers      02:47               164                       07:36:28
+  05)  20/01/2025      784162      chattingwithviewers      02:47               150                       06:57:29
+  06)  22/02/2025      282183      dropsaktiviert           02:18               258                       09:53:23
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         54:28:29
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3059.30
+========================================================================================================================
+CANAL No. 95
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      NIGHTBLUE3               N4286     18/12/2021           4.08
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  23/12/2024      610128      girl                     02:51               122                       05:47:41
+  02)  01/02/2025      576104      adhd                     02:32               280                       11:49:19
+  03)  27/02/2025      979189      repeat                   00:57               281                       04:26:57
+  04)  02/03/2025      704111      ranked                   02:51               167                       07:55:57
+  05)  06/01/2025      992165      cod                      00:55               319                       04:52:24
+  06)  25/01/2025      570116      safespace                01:39               324                       08:54:36
+  07)  21/01/2025      978138      shooter                  01:54                70                       02:13:00
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         45:59:56
+PORCENTAJE POR RATING  DE CALIDAD:                   +30.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2798.59
+========================================================================================================================
+CANAL No. 96
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      ESFANDTV                 E6341     24/06/2023           2.98
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  08/02/2025      282183      dropsaktiviert           02:18               254                       09:44:11
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         09:44:11
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               469.35
+========================================================================================================================
+CANAL No. 97
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SHROUD                   S1460     24/04/2021           3.09
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  27/12/2024      866146      marvelrivals             01:19               209                       04:35:11
+  02)  31/12/2024      770185      queer                    01:36               222                       05:55:12
+  03)  22/02/2025      501133      furry                    01:03               291                       05:05:33
+  04)  23/02/2025      650117      pc                       02:05               224                       07:46:39
+  05)  31/01/2025      276198      ia                       02:43               233                       10:32:58
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         33:55:35
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              1905.31
+========================================================================================================================
+CANAL No. 98
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      NOBRU                    N1264     10/11/2023           2.71
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  14/02/2025      738184      callofduty               02:16               148                       05:35:27
+  02)  13/01/2025      829177      oce                      01:57               240                       07:47:59
+  03)  27/12/2024      978138      shooter                  01:54               307                       09:43:17
+  04)  22/12/2024      978138      shooter                  01:54               332                       10:30:47
+  05)  26/02/2025      159152      lgbtq                    01:00               428                       07:08:00
+  06)  05/02/2025      125190      game                     02:40                80                       03:33:19
+  07)  10/02/2025      450161      cs2                      02:53               299                       14:22:06
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         58:41:01
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              2828.78
+========================================================================================================================
+CANAL No. 99
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      BUSTER                   B5019     13/12/2023           1.10
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  05/01/2025      338176      chat                     01:30               443                       11:04:29
+  02)  02/03/2025      186113      warzone                  01:48               442                       13:15:35
+  03)  19/02/2025      186113      warzone                  01:48               395                       11:50:59
+  04)  06/01/2025      175109      music                    02:40               251                       11:09:19
+  05)  23/02/2025      175109      music                    02:40               446                       19:49:19
+  06)  11/02/2025      294188      dbd                      02:48               395                       18:26:00
+  07)  08/02/2025      294188      dbd                      02:48               246                       11:28:47
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         97:04:33
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4440.94
+========================================================================================================================
+CANAL No. 100
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      SCARRA                   S1339     14/11/2021           1.43
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  09/01/2025      784162      chattingwithviewers      02:47               282                       13:04:54
+  02)  17/02/2025      401166      roblox                   02:34               110                       04:42:19
+  03)  11/02/2025      401166      roblox                   02:34               412                       17:37:27
+  04)  18/01/2025      175109      music                    02:40                97                       04:18:39
+  05)  04/01/2025      175109      music                    02:40               233                       10:21:19
+  06)  26/01/2025      125190      game                     02:40               215                       09:33:19
+  07)  01/01/2025      125190      game                     02:40               155                       06:53:19
+  08)  10/02/2025      939139      dnd                      00:52               353                       05:05:56
+  09)  02/03/2025      939139      dnd                      00:52               281                       04:03:32
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         75:40:50
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              3462.16
+========================================================================================================================
+CANAL No. 101
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      BAIANO                   B5009     01/02/2022           1.13
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  24/01/2025      347108      anime                    00:37               209                       02:08:53
+  02)  25/02/2025      347108      anime                    00:37               254                       02:36:38
+  03)  11/01/2025      380174      vibes                    00:39               219                       02:22:21
+  04)  28/12/2024      253143      asian                    00:39               212                       02:17:48
+  05)  29/01/2025      253143      asian                    00:39               101                       01:05:39
+  06)  06/02/2025      610128      girl                     02:51               160                       07:35:59
+  07)  26/12/2024      610128      girl                     02:51               444                       21:05:23
+  08)  14/02/2025      113141      lurkerfriendly           02:12               441                       16:10:12
+  09)  18/01/2025      113141      lurkerfriendly           02:12               258                       09:27:36
+  10)  02/02/2025      738184      callofduty               02:16               240                       09:03:59
+  11)  06/01/2025      738184      callofduty               02:16               192                       07:15:11
+  12)  09/01/2025      410154      ama                      00:47               250                       03:15:49
+  13)  25/01/2025      929142      mexico                   02:46               272                       12:32:31
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         96:58:04
+PORCENTAJE POR RATING  DE CALIDAD:                   -2.25%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4436.00
+========================================================================================================================
+CANAL No. 102
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      TMXK319                  T1252     17/08/2022           3.55
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  31/01/2025      610128      girl                     02:51               269                       12:46:38
+  02)  29/01/2025      570116      safespace                01:39               225                       06:11:15
+  03)  24/02/2025      570116      safespace                01:39               180                       04:57:00
+  04)  11/02/2025      570116      safespace                01:39               206                       05:39:54
+  05)  26/12/2024      401166      roblox                   02:34               319                       13:38:45
+  06)  15/02/2025      413164      australian               02:59                80                       03:58:40
+  07)  22/12/2024      629118      rpg                      00:41               408                       04:38:47
+  08)  22/02/2025      784162      chattingwithviewers      02:47               432                       20:02:23
+  09)  29/01/2025      784162      chattingwithviewers      02:47               184                       08:32:08
+  10)  24/12/2024      884135      casual                   00:35               292                       02:50:20
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         83:15:54
+PORCENTAJE POR RATING  DE CALIDAD:                   +20.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:              4676.16
+========================================================================================================================
+CANAL No. 103
+      NOMBRE                   CODIGO    CREADO EL   RATING DE CALIDAD
+      WEPLAYESPORT_RU          W4995     17/03/2022           2.26
+ETIQUETAS REPRODUCIDAS
+  No.    FECHA         ETIQUETA    DESCRIPCION            DURACION    CANTIDAD DE REPRODUCCIONES    TIEMPO TOTAL REPRODUCIDO
+  01)  30/01/2025      629118      rpg                      00:41               231                       02:37:51
+  02)  18/02/2025      629118      rpg                      00:41               315                       03:35:14
+  03)  05/01/2025      888106      fps                      02:07               249                       08:47:02
+  04)  02/02/2025      888106      fps                      02:07               120                       04:14:00
+========================================================================================================================
+TIEMPO TOTAL DE REPRODUCIONES DE ETIQUETAS:         19:14:09
+PORCENTAJE POR RATING  DE CALIDAD:                   + 3.00%
+INGRESOS POR REPRODUCCION DE ETIQUETAS:               927.24
