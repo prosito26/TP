@@ -1,0 +1,248 @@
+                                        REPORTE POR CATEGORIAS
+========================================================================================================================
+Codigo:       AE182A15                                          
+Nombre:       im only sleeping                                  
+Descripcion:  "“Sleep"" streams with chat interactions and ambience."
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: OgamingLoL
+DURACION:         01:37:54
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.53      3.77      3.58      
+PROMEDIO DE DROPP-OFF:                3.96
+TIEMPO DE DURACION TOTAL:         02:34:57
+========================================================================================================================
+Codigo:       AF136N84                                          
+Nombre:       metal gear solid v  the phantom pain              
+Descripcion:  Sandbox stealth-action; missions and mods.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: MOONMOON
+DURACION:         01:08:07
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.70      
+PROMEDIO DE DROPP-OFF:                4.70
+TIEMPO DE DURACION TOTAL:         01:08:07
+========================================================================================================================
+Codigo:       DA182Q73                                          
+Nombre:       arena breakout  infinite                          
+Descripcion:  Extraction FPS; builds; raids; and economy.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: TheRealKnossi
+DURACION:         00:47:39
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.08      
+PROMEDIO DE DROPP-OFF:                4.08
+TIEMPO DE DURACION TOTAL:         00:47:39
+========================================================================================================================
+Codigo:       DQ172M16                                          
+Nombre:       clash royale                                      
+Descripcion:  Mobile RTS; ladder; challenges; deck building; and tips.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: TFBlade
+DURACION:         02:00:14
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 3.23      2.31      4.72      4.14      4.56      2.96      
+PROMEDIO DE DROPP-OFF:                3.65
+TIEMPO DE DURACION TOTAL:         07:56:45
+========================================================================================================================
+Codigo:       FE115G27                                          
+Nombre:       shadowverse  worlds beyond                        
+Descripcion:  Anime-style CCG; ladder; tournaments; and deck tech.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: Solary
+DURACION:         02:14:46
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.77      3.83      3.90      1.86      
+PROMEDIO DE DROPP-OFF:                3.59
+TIEMPO DE DURACION TOTAL:         04:15:52
+========================================================================================================================
+Codigo:       KF142D45                                          
+Nombre:       guild wars 2                                      
+Descripcion:  MMORPG; WvW; fractals; raids; and fashion.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: NICKMERCS
+DURACION:         00:58:01
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 3.66      4.21      4.77      1.68      
+PROMEDIO DE DROPP-OFF:                3.58
+TIEMPO DE DURACION TOTAL:         01:53:12
+========================================================================================================================
+Codigo:       KI146T56                                          
+Nombre:       apex legends                                      
+Descripcion:  Battle royale/arenas; ranked pushes; tournaments; and legend tips.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: Asmongold
+DURACION:         00:38:36
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 3.71      
+PROMEDIO DE DROPP-OFF:                3.71
+TIEMPO DE DURACION TOTAL:         00:38:36
+========================================================================================================================
+Codigo:       MJ182W35                                          
+Nombre:       fortnite                                          
+Descripcion:  Battle royale & creative modes; arena grind; events; and challenges.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: YoDa
+DURACION:         02:04:08
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 1.50      4.41      4.33      4.99      
+PROMEDIO DE DROPP-OFF:                3.81
+TIEMPO DE DURACION TOTAL:         04:44:32
+========================================================================================================================
+Codigo:       NU114V45                                          
+Nombre:       djs                                               
+Descripcion:  DJ sets; mixing; and live club-style performances.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: GamesDoneQuick
+DURACION:         02:21:15
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.97      2.48      
+PROMEDIO DE DROPP-OFF:                3.72
+TIEMPO DE DURACION TOTAL:         02:41:33
+========================================================================================================================
+Codigo:       OR112F58                                          
+Nombre:       are you smarter than a 5th grader                 
+Descripcion:  Quiz/show game sessions with viewers.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: DrDisrespect
+DURACION:         01:41:39
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 3.81      4.72      4.39      
+PROMEDIO DE DROPP-OFF:                4.31
+TIEMPO DE DURACION TOTAL:         03:16:26
+========================================================================================================================
+Codigo:       OZ151I97                                          
+Nombre:       haunted room  205                                 
+Descripcion:  Horror/escape; investigation; puzzles; and scares.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: TFBlade
+DURACION:         02:14:21
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.30      3.62      3.17      4.41      4.62      1.14      
+PROMEDIO DE DROPP-OFF:                3.54
+TIEMPO DE DURACION TOTAL:         05:40:06
+========================================================================================================================
+Codigo:       PK187T86                                          
+Nombre:       sports                                            
+Descripcion:  Sports talk; watch-alongs; management sims; and highlights.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: Tfue
+DURACION:         02:07:35
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.01      3.37      4.50      
+PROMEDIO DE DROPP-OFF:                3.96
+TIEMPO DE DURACION TOTAL:         03:35:33
+========================================================================================================================
+Codigo:       QR146D97                                          
+Nombre:       escape from tarkov                                
+Descripcion:  Extraction shooter; raids; looting routes; wipes; and market.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: summit1g
+DURACION:         00:21:52
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.99      4.97      
+PROMEDIO DE DROPP-OFF:                4.98
+TIEMPO DE DURACION TOTAL:         00:42:02
+========================================================================================================================
+Codigo:       QT146C58                                          
+Nombre:       overwatch 2                                       
+Descripcion:  5v5 hero FPS; role queue ranked; scrims; and VOD reviews.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: Yassuo
+DURACION:         01:20:37
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 3.11      4.48      
+PROMEDIO DE DROPP-OFF:                3.79
+TIEMPO DE DURACION TOTAL:         02:13:45
+========================================================================================================================
+Codigo:       RD128Y57                                          
+Nombre:       world of tanks                                    
+Descripcion:  Tank warfare; tech tree grinds; clan wars; and missions.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: MOONMOON
+DURACION:         02:08:26
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.76      1.34      4.17      4.96      3.23      
+PROMEDIO DE DROPP-OFF:                3.69
+TIEMPO DE DURACION TOTAL:         06:01:26
+========================================================================================================================
+Codigo:       VS157U81                                          
+Nombre:       abiotic factor                                    
+Descripcion:  Co-op survival; crafting; exploration; and base defense.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: summit1g
+DURACION:         00:38:53
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 3.57      4.04      
+PROMEDIO DE DROPP-OFF:                3.80
+TIEMPO DE DURACION TOTAL:         00:49:57
+========================================================================================================================
+Codigo:       WT179Q13                                          
+Nombre:       marvel rivals                                     
+Descripcion:  Team shooter with Marvel heroes; matches; comps; and strategies.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: Solary
+DURACION:         02:22:42
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 1.89      4.89      4.05      4.45      2.45      4.34      
+PROMEDIO DE DROPP-OFF:                3.68
+TIEMPO DE DURACION TOTAL:         10:16:17
+========================================================================================================================
+Codigo:       YC193H47                                          
+Nombre:       animals aquariums and zoos                        
+Descripcion:  Live animal cams; care streams; and zoo tours.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: hanryang1125
+DURACION:         02:10:18
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 3.88      4.91      4.58      4.68      1.18      
+PROMEDIO DE DROPP-OFF:                3.85
+TIEMPO DE DURACION TOTAL:         06:39:18
+========================================================================================================================
+Codigo:       ZT132U54                                          
+Nombre:       oh deer                                           
+Descripcion:  Light indie experience; exploration and humor.
+------------------------------------------------------------------------------------------------------------------------
+INFORMACION DE LAS REPRODUCCIONES:
+DURACION MAXIMA:
+NOMBRE DEL CANAL: Sardoche
+DURACION:         01:41:48
+------------------------------------------------------------------------------------------------------------------------
+LISTA DE DROPP-OFF: 4.41      3.85      4.04      3.10      2.32      
+PROMEDIO DE DROPP-OFF:                3.54
+TIEMPO DE DURACION TOTAL:         04:40:13
