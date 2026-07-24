@@ -4,8 +4,6 @@
 
 #include "FuncionesAuxiliares.h"
 
-#include <chrono>
-
 void cargarCanales(const char*nombArch,int *arrFechaCreacCanal,int *arrIntCodCanal,
                    char *arrCharCodCanal,double *arrRatingCanal,int &cantCanales) {
     ifstream arch(nombArch,ios::in);
