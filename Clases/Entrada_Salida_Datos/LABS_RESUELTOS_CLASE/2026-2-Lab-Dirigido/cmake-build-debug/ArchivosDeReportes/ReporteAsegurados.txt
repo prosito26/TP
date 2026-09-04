@@ -1,0 +1,300 @@
+Gabriela Gomez Silva               58               Poliza vencida               297 dias vencido                           15256.89
+Miguel Vargas Cruz                 51               Poliza vigente               10330 dias para vencer                            2196.75
+Pedro Flores Ramirez               42               Poliza vigente               630 dias para vencer                           19543.77
+Fernando Rojas Vega                26               Poliza vigente               10605 dias para vencer                            7853.98
+Luis Sanchez Perez                 47               Poliza vigente               729 dias para vencer                           12832.86
+Ricardo Rivera Gomez               67               Poliza vencida               10182 dias vencido                           13915.30
+Carlos Ortiz Reyes                 70               Poliza vigente               20306 dias para vencer                            6219.68
+Carmen Ortiz Reyes                 19               Poliza vigente               20430 dias para vencer                           14497.91
+Carmen Ramirez Jimenez             60               Poliza vencida               29377 dias vencido                            3534.36
+Gabriela Ramirez Martinez          38               Poliza vencida               29596 dias vencido                           13736.87
+Patricia Perez Ramirez             44               Poliza vigente               29804 dias para vencer                           14231.75
+Carlos Rivera Castillo             35               Poliza vigente               10709 dias para vencer                           14327.98
+Juan Sanchez Ramirez               70               Poliza vigente               702 dias para vencer                            4843.74
+Claudia Perez Castillo             37               Poliza vigente               20109 dias para vencer                            6744.79
+Teresa Reyes Silva                 46               Poliza vencida               20381 dias vencido                           12910.52
+Fernando Torres Flores             23               Poliza vencida               9771 dias vencido                           18317.39
+Sofia Silva Vega                   25               Poliza vencida               19672 dias vencido                           14483.36
+Carlos Ortiz Rojas                 75               Poliza vigente               104 dias para vencer                           12664.19
+Pedro Rodriguez Castillo           45               Poliza vigente               30727 dias para vencer                           15035.53
+Alberto Sanchez Diaz               74               Poliza vencida               19282 dias vencido                           16223.65
+Claudia Diaz Gonzalez              72               Poliza vigente               20518 dias para vencer                            6961.88
+Beatriz Lopez Ramirez              52               Poliza vigente               30510 dias para vencer                            7740.53
+Elena Sanchez Vargas               45               Poliza vigente               30210 dias para vencer                           11887.36
+Juan Ramirez Vega                  18               Poliza vigente               39713 dias para vencer                           14534.78
+Luis Sanchez Garcia                50               Poliza vencida               19373 dias vencido                            6865.96
+Fernando Reyes Garcia              35               Poliza vencida               29887 dias vencido                           14413.11
+Jose Aguilar Nunez                 39               Poliza vigente               29927 dias para vencer                           16196.81
+Juan Rojas Reyes                   53               Poliza vigente               30420 dias para vencer                           14180.75
+Alberto Reyes Ortiz                74               Poliza vigente               20423 dias para vencer                           23872.75
+Silvia Morales Rojas               61               Poliza vigente               102 dias para vencer                            6676.70
+Diego Diaz Ortiz                   48               Poliza vigente               10424 dias para vencer                            6531.27
+Carlos Mendoza Garcia              49               Poliza vigente               417 dias para vencer                           15556.33
+Carlos Medina Rojas                45               Poliza vigente               220 dias para vencer                           21193.14
+Carlos Nunez Morales               46               Poliza vencida               20070 dias vencido                           10329.15
+Gabriela Nunez Garcia              55               Poliza vigente               313 dias para vencer                           11823.08
+Raul Medina Ramirez                58               Poliza vencida               271 dias vencido                            5405.18
+Alberto Rodriguez Diaz             50               Poliza vencida               10077 dias vencido                           16764.45
+Sofia Chavez Ortiz                 49               Poliza vigente               10608 dias para vencer                            7692.71
+Gabriela Vargas Aguilar            43               Poliza vencida               19673 dias vencido                            4911.61
+Andres Vargas Rodriguez            55               Poliza vigente               20523 dias para vencer                           19491.10
+Alberto Silva Diaz                 51               Poliza vigente               20029 dias para vencer                            7935.59
+Alberto Nunez Reyes                23               Poliza vencida               19370 dias vencido                            7851.60
+Silvia Herrera Lopez               23               Poliza vencida               19979 dias vencido                            9552.82
+Sofia Chavez Torres                39               Poliza vigente               118 dias para vencer                           10040.34
+Juan Torres Martinez               20               Poliza vencida               9274 dias vencido                           12245.90
+Carmen Diaz Rodriguez              18               Poliza vencida               19490 dias vencido                           14022.80
+Maria Jimenez Reyes                54               Poliza vencida               9488 dias vencido                            5500.59
+Rosa Gomez Gonzalez                55               Poliza vigente               10301 dias para vencer                           12442.83
+Teresa Mendoza Ortiz               55               Poliza vencida               10272 dias vencido                           14556.54
+Diego Castillo Lopez               51               Poliza vencida               384 dias vencido                           14772.16
+Patricia Ramirez Torres            33               Poliza vigente               10616 dias para vencer                           12716.88
+Carmen Perez Medina                24               Poliza vigente               30116 dias para vencer                            7475.86
+Juan Rivera Silva                  41               Poliza vigente               605 dias para vencer                            9437.62
+Diego Rojas Silva                  41               Poliza vigente               30720 dias para vencer                            7676.12
+Juan Morales Ruiz                  66               Poliza vencida               9985 dias vencido                           11722.17
+Alberto Herrera Morales            37               Poliza vigente               20309 dias para vencer                           17461.38
+Victor Rodriguez Chavez            65               Poliza vigente               10706 dias para vencer                            6648.59
+Alberto Castillo Chavez            43               Poliza vencida               19979 dias vencido                           21605.51
+Beatriz Rivera Martinez            31               Poliza vencida               9895 dias vencido                            6742.87
+Teresa Castillo Gomez              40               Poliza vencida               9472 dias vencido                           13271.44
+Alberto Nunez Jimenez              50               Poliza vigente               9810 dias para vencer                           19114.00
+Diego Sanchez Nunez                50               Poliza vigente               30104 dias para vencer                           14320.14
+Lucia Morales Garcia               39               Poliza vigente               725 dias para vencer                           12896.56
+Luis Reyes Diaz                    66               Poliza vigente               19708 dias para vencer                           11426.05
+Luis Mendoza Chavez                62               Poliza vigente               30429 dias para vencer                           14833.20
+Carlos Ramirez Jimenez             56               Poliza vigente               20304 dias para vencer                           14536.08
+Ana Morales Perez                  51               Poliza vigente               201 dias para vencer                            2201.83
+Beatriz Jimenez Vargas             25               Poliza vencida               19473 dias vencido                            6704.32
+Juan Torres Perez                  65               Poliza vigente               19615 dias para vencer                            4412.75
+Silvia Ortiz Rodriguez             57               Poliza vigente               130 dias para vencer                           20885.02
+Gabriela Flores Vega               48               Poliza vencida               181 dias vencido                           12940.61
+Lucia Rodriguez Lopez              39               Poliza vigente               30213 dias para vencer                           11978.88
+Fernando Gonzalez Cruz             52               Poliza vigente               9717 dias para vencer                            7154.87
+Ana Silva Castillo                 19               Poliza vencida               19593 dias vencido                           14894.09
+Miguel Vega Silva                  45               Poliza vigente               20422 dias para vencer                           17431.11
+Miguel Rojas Vargas                68               Poliza vigente               30714 dias para vencer                           10972.49
+Patricia Castillo Herrera          30               Poliza vencida               29796 dias vencido                           13084.80
+Fernando Ortiz Nunez               66               Poliza vencida               10386 dias vencido                           11909.38
+Monica Ortiz Chavez                42               Poliza vigente               30129 dias para vencer                            5107.75
+Pedro Rojas Vargas                 72               Poliza vigente               20017 dias para vencer                            7369.37
+Ricardo Jimenez Diaz               37               Poliza vigente               722 dias para vencer                            6531.83
+Teresa Ruiz Herrera                62               Poliza vencida               9972 dias vencido                           13442.78
+Jorge Ortiz Castillo               72               Poliza vencida               200 dias vencido                           15691.66
+Gabriela Rivera Torres             62               Poliza vigente               406 dias para vencer                            2555.37
+Teresa Silva Mendoza               31               Poliza vigente               9918 dias para vencer                           18602.16
+Victor Vargas Gonzalez             41               Poliza vigente               30114 dias para vencer                            2747.71
+Pedro Cruz Ortiz                   37               Poliza vigente               626 dias para vencer                           16986.35
+Sofia Perez Silva                  23               Poliza vencida               10388 dias vencido                            2402.22
+Patricia Ruiz Martinez             47               Poliza vencida               9396 dias vencido                           11952.09
+Alberto Castillo Perez             44               Poliza vencida               9987 dias vencido                           12939.95
+Ricardo Chavez Mendoza             36               Poliza vigente               30526 dias para vencer                            2065.43
+Pedro Reyes Rojas                  45               Poliza vencida               184 dias vencido                            9259.08
+Raul Sanchez Martinez              42               Poliza vigente               20103 dias para vencer                           15605.55
+Ana Jimenez Reyes                  41               Poliza vigente               10713 dias para vencer                             992.46
+Silvia Silva Nunez                 70               Poliza vigente               210 dias para vencer                           14601.73
+Raul Castillo Castillo             54               Poliza vencida               9292 dias vencido                            7054.90
+Lucia Gonzalez Vargas              69               Poliza vencida               89 dias vencido                            7204.02
+Silvia Jimenez Sanchez             70               Poliza vencida               9393 dias vencido                           17470.69
+Teresa Perez Torres                32               Poliza vigente               628 dias para vencer                           13892.58
+Fernando Garcia Jimenez            23               Poliza vigente               118 dias para vencer                           10758.49
+Raul Castillo Torres               50               Poliza vigente               9905 dias para vencer                           19355.17
+Ricardo Castillo Chavez            36               Poliza vencida               19392 dias vencido                            6415.79
+Monica Lopez Gomez                 60               Poliza vencida               20296 dias vencido                           16240.09
+Rosa Ruiz Silva                    44               Poliza vencida               10392 dias vencido                           12414.54
+Juan Aguilar Chavez                41               Poliza vigente               19806 dias para vencer                           12356.72
+Beatriz Cruz Lopez                 62               Poliza vigente               9825 dias para vencer                            9281.27
+Patricia Rojas Ramirez             73               Poliza vigente               402 dias para vencer                           14565.56
+Teresa Herrera Ortiz               75               Poliza vigente               9708 dias para vencer                            6198.70
+Juan Silva Flores                  48               Poliza vigente               19905 dias para vencer                           12186.57
+Lucia Herrera Ramirez              28               Poliza vigente               10623 dias para vencer                           13265.92
+Raul Diaz Vega                     68               Poliza vigente               229 dias para vencer                           15973.60
+Luis Rojas Rojas                   65               Poliza vigente               513 dias para vencer                            9252.34
+Silvia Rojas Aguilar               46               Poliza vigente               30402 dias para vencer                           17925.98
+Luis Rodriguez Ortiz               62               Poliza vencida               296 dias vencido                            6885.54
+Claudia Mendoza Vega               39               Poliza vencida               19577 dias vencido                            7797.79
+Lucia Chavez Chavez                62               Poliza vigente               20306 dias para vencer                           10141.35
+Ricardo Herrera Herrera            75               Poliza vencida               396 dias vencido                            7919.03
+Sofia Gonzalez Chavez              69               Poliza vencida               10192 dias vencido                           15217.41
+Diego Nunez Garcia                 65               Poliza vigente               29820 dias para vencer                            6748.47
+Raul Reyes Ortiz                   49               Poliza vencida               9770 dias vencido                           12719.55
+Lucia Vega Ramirez                 40               Poliza vencida               19375 dias vencido                           14767.72
+Beatriz Aguilar Garcia             66               Poliza vigente               19825 dias para vencer                           15510.37
+Jose Martinez Flores               53               Poliza vigente               10520 dias para vencer                           13227.40
+Pedro Herrera Ortiz                65               Poliza vigente               20606 dias para vencer                            8528.67
+Andres Gonzalez Sanchez            21               Poliza vigente               19814 dias para vencer                            7532.71
+Lucia Medina Aguilar               59               Poliza vigente               20225 dias para vencer                           11548.75
+Juan Flores Ramirez                60               Poliza vigente               10518 dias para vencer                            6415.98
+Rosa Ortiz Silva                   74               Poliza vencida               29885 dias vencido                            6465.50
+Fernando Mendoza Garcia            68               Poliza vigente               505 dias para vencer                           20428.10
+Silvia Ortiz Lopez                 67               Poliza vigente               10615 dias para vencer                           11459.45
+Maria Gonzalez Mendoza             49               Poliza vigente               29702 dias para vencer                           10219.92
+Victor Vargas Martinez             36               Poliza vigente               29608 dias para vencer                            5174.65
+Alberto Mendoza Medina             53               Poliza vigente               10503 dias para vencer                           10351.60
+Raul Flores Flores                 61               Poliza vigente               20730 dias para vencer                           15594.32
+Miguel Herrera Torres              39               Poliza vigente               203 dias para vencer                            7434.43
+Miguel Diaz Lopez                  63               Poliza vigente               10519 dias para vencer                            4703.11
+Manuel Aguilar Jimenez             24               Poliza vencida               9984 dias vencido                            9987.91
+Rosa Garcia Ramirez                41               Poliza vigente               304 dias para vencer                           13600.48
+Manuel Sanchez Vega                26               Poliza vencida               9591 dias vencido                           13805.56
+Valeria Lopez Chavez               71               Poliza vigente               20102 dias para vencer                           14791.63
+Jose Perez Aguilar                 20               Poliza vencida               9387 dias vencido                           19749.52
+Andres Ramirez Chavez              74               Poliza vencida               394 dias vencido                            5951.19
+Teresa Rojas Garcia                57               Poliza vencida               20183 dias vencido                            1137.54
+Lucia Vargas Nunez                 74               Poliza vigente               625 dias para vencer                           16529.95
+Jorge Medina Chavez                37               Poliza vencida               95 dias vencido                           18946.08
+Lucia Herrera Rodriguez            29               Poliza vencida               71 dias vencido                            1466.47
+Alberto Ortiz Rojas                60               Poliza vigente               30709 dias para vencer                            7022.11
+Claudia Cruz Torres                69               Poliza vigente               19917 dias para vencer                            2291.56
+Ana Ruiz Lopez                     51               Poliza vencida               9282 dias vencido                            5681.05
+Manuel Chavez Silva                50               Poliza vencida               10088 dias vencido                           14722.45
+Teresa Medina Rojas                43               Poliza vigente               10422 dias para vencer                           17798.17
+Maria Aguilar Cruz                 32               Poliza vigente               10112 dias para vencer                            6845.80
+Gabriela Gonzalez Gonzalez         40               Poliza vencida               9683 dias vencido                            5439.76
+Jorge Aguilar Ramirez              39               Poliza vigente               30006 dias para vencer                           13509.74
+Sofia Gonzalez Cruz                61               Poliza vigente               306 dias para vencer                           14149.19
+Alberto Chavez Jimenez             47               Poliza vigente               20226 dias para vencer                           17420.45
+Manuel Rojas Aguilar               22               Poliza vigente               30717 dias para vencer                            9228.71
+Raul Silva Rojas                   56               Poliza vigente               9622 dias para vencer                           10892.06
+Claudia Nunez Chavez               63               Poliza vigente               117 dias para vencer                            9320.50
+Elena Flores Ruiz                  67               Poliza vencida               19878 dias vencido                           17159.60
+Juan Garcia Castillo               71               Poliza vigente               313 dias para vencer                            8006.98
+Maria Chavez Diaz                  34               Poliza vigente               225 dias para vencer                           20359.84
+Rosa Torres Torres                 67               Poliza vigente               609 dias para vencer                           15161.48
+Claudia Reyes Garcia               41               Poliza vigente               20608 dias para vencer                            6314.58
+Lucia Garcia Ortiz                 24               Poliza vencida               9295 dias vencido                           15223.11
+Patricia Silva Jimenez             73               Poliza vencida               9895 dias vencido                            4108.27
+Elena Cruz Perez                   51               Poliza vencida               9272 dias vencido                            9207.77
+Teresa Vega Lopez                  36               Poliza vencida               9787 dias vencido                           16870.65
+Claudia Castillo Ortiz             67               Poliza vencida               29778 dias vencido                           15647.68
+Maria Mendoza Rodriguez            67               Poliza vigente               9 dias para vencer                           11653.11
+Luis Ruiz Medina                   19               Poliza vencida               19692 dias vencido                           12927.41
+Miguel Rodriguez Garcia            44               Poliza vigente               224 dias para vencer                           17251.36
+Carlos Herrera Diaz                62               Poliza vigente               10719 dias para vencer                            9772.11
+Silvia Herrera Ramirez             65               Poliza vigente               19724 dias para vencer                           16165.43
+Teresa Ortiz Torres                47               Poliza vencida               19478 dias vencido                            9095.87
+Pedro Nunez Castillo               62               Poliza vencida               9474 dias vencido                            2233.01
+Monica Sanchez Rojas               31               Poliza vencida               19896 dias vencido                           12908.49
+Alberto Sanchez Jimenez            67               Poliza vencida               9987 dias vencido                            7202.62
+Sofia Perez Rojas                  25               Poliza vigente               203 dias para vencer                            6038.56
+Sofia Morales Chavez               50               Poliza vigente               10010 dias para vencer                           14083.66
+Ana Rojas Perez                    61               Poliza vencida               73 dias vencido                            8659.72
+Victor Nunez Gonzalez              22               Poliza vigente               10000 dias para vencer                            7227.44
+Patricia Rodriguez Gomez           44               Poliza vigente               721 dias para vencer                            6220.22
+Juan Medina Chavez                 70               Poliza vigente               301 dias para vencer                            4452.33
+Ricardo Sanchez Reyes              37               Poliza vencida               10400 dias vencido                           20463.05
+Maria Gonzalez Herrera             22               Poliza vencida               10374 dias vencido                           15979.44
+Sofia Medina Vargas                32               Poliza vigente               10718 dias para vencer                           23635.08
+Diego Morales Diaz                 47               Poliza vencida               10370 dias vencido                            6490.31
+Claudia Lopez Garcia               42               Poliza vigente               19909 dias para vencer                             749.92
+Juan Vega Silva                    69               Poliza vigente               19613 dias para vencer                           17356.18
+Lucia Castillo Chavez              45               Poliza vigente               30125 dias para vencer                           16442.43
+Jorge Diaz Cruz                    54               Poliza vigente               19811 dias para vencer                            8055.23
+Luis Jimenez Nunez                 50               Poliza vigente               39829 dias para vencer                           14193.66
+Ana Castillo Chavez                35               Poliza vencida               9977 dias vencido                           15291.11
+Ricardo Vargas Chavez              18               Poliza vencida               19987 dias vencido                           10397.68
+Alberto Ramirez Rojas              48               Poliza vigente               305 dias para vencer                           16338.01
+Patricia Sanchez Gonzalez          71               Poliza vigente               19911 dias para vencer                           16968.98
+Raul Chavez Mendoza                66               Poliza vencida               9596 dias vencido                           14600.79
+Pedro Torres Sanchez               18               Poliza vigente               105 dias para vencer                            8230.40
+Pedro Rivera Cruz                  65               Poliza vigente               726 dias para vencer                            3862.36
+Miguel Ortiz Diaz                  29               Poliza vencida               9277 dias vencido                            6198.66
+Fernando Herrera Sanchez           61               Poliza vencida               19598 dias vencido                           13006.27
+Juan Rodriguez Aguilar             24               Poliza vigente               222 dias para vencer                            9075.49
+Miguel Gonzalez Martinez           43               Poliza vigente               20522 dias para vencer                            8828.82
+Valeria Ortiz Herrera              23               Poliza vigente               108 dias para vencer                           20582.02
+Patricia Ruiz Vargas               47               Poliza vencida               19975 dias vencido                            6082.19
+Luis Garcia Rodriguez              64               Poliza vigente               10321 dias para vencer                           18079.75
+Jose Rojas Rojas                   29               Poliza vencida               99 dias vencido                           12693.42
+Carlos Rodriguez Martinez          59               Poliza vigente               30723 dias para vencer                           15837.57
+Maria Ortiz Gonzalez               69               Poliza vencida               9377 dias vencido                           16006.03
+Elena Herrera Mendoza              27               Poliza vigente               19912 dias para vencer                           11094.35
+Valeria Mendoza Rivera             27               Poliza vencida               9987 dias vencido                            6214.41
+Carmen Perez Vega                  63               Poliza vigente               614 dias para vencer                            8869.53
+Silvia Ortiz Jimenez               64               Poliza vencida               9692 dias vencido                            9640.26
+Pedro Aguilar Mendoza              64               Poliza vigente               30005 dias para vencer                           12881.28
+Lucia Medina Vargas                49               Poliza vigente               17 dias para vencer                           15991.45
+Pedro Herrera Torres               45               Poliza vigente               30216 dias para vencer                            8734.30
+Monica Perez Cruz                  19               Poliza vigente               19605 dias para vencer                            4242.27
+Ricardo Sanchez Perez              66               Poliza vencida               10386 dias vencido                           15802.03
+Pedro Torres Herrera               70               Poliza vigente               10007 dias para vencer                            4874.27
+Alberto Ramirez Gomez              32               Poliza vigente               20130 dias para vencer                            8157.75
+Miguel Rodriguez Silva             34               Poliza vigente               29910 dias para vencer                           15249.84
+Beatriz Lopez Vega                 29               Poliza vencida               9391 dias vencido                           13343.10
+Carlos Garcia Gomez                31               Poliza vigente               211 dias para vencer                           13900.31
+Maria Lopez Reyes                  55               Poliza vigente               217 dias para vencer                            3624.10
+Victor Aguilar Rojas               32               Poliza vigente               112 dias para vencer                           14510.55
+Raul Castillo Rodriguez            18               Poliza vencida               19297 dias vencido                           19253.15
+Carmen Nunez Ramirez               42               Poliza vigente               30021 dias para vencer                           14987.72
+Miguel Vega Sanchez                19               Poliza vencida               29784 dias vencido                           12315.54
+Ricardo Gonzalez Silva             20               Poliza vigente               30219 dias para vencer                           18133.74
+Pedro Torres Vega                  37               Poliza vencida               283 dias vencido                            8991.61
+Beatriz Medina Rivera              43               Poliza vigente               30626 dias para vencer                            3202.62
+Silvia Lopez Morales               23               Poliza vigente               10606 dias para vencer                           17765.68
+Manuel Morales Gomez               69               Poliza vencida               9291 dias vencido                           10079.35
+Beatriz Mendoza Silva              72               Poliza vigente               19919 dias para vencer                            2094.18
+Manuel Ruiz Morales                44               Poliza vigente               10617 dias para vencer                            3448.02
+Carmen Reyes Castillo              68               Poliza vencida               9777 dias vencido                            8486.00
+Diego Ortiz Aguilar                48               Poliza vigente               10212 dias para vencer                           16275.53
+Alberto Castillo Silva             47               Poliza vigente               10424 dias para vencer                           16880.71
+Raul Vargas Nunez                  38               Poliza vencida               10081 dias vencido                           12085.45
+Rosa Reyes Rivera                  41               Poliza vencida               29494 dias vencido                           12242.17
+Jorge Garcia Rojas                 69               Poliza vigente               511 dias para vencer                            2313.13
+Rosa Vega Silva                    38               Poliza vencida               20383 dias vencido                           17194.25
+Lucia Gomez Gonzalez               35               Poliza vencida               19497 dias vencido                           13523.28
+Teresa Sanchez Ortiz               65               Poliza vigente               40101 dias para vencer                           18374.10
+Victor Chavez Medina               38               Poliza vigente               327 dias para vencer                           11856.75
+Claudia Mendoza Cruz               70               Poliza vigente               20702 dias para vencer                           17537.97
+Victor Torres Cruz                 31               Poliza vigente               19711 dias para vencer                           12923.27
+Gabriela Reyes Morales             18               Poliza vigente               9702 dias para vencer                           14837.16
+Carmen Cruz Torres                 41               Poliza vigente               30204 dias para vencer                           17020.35
+Victor Herrera Diaz                30               Poliza vencida               271 dias vencido                           14311.35
+Ricardo Gonzalez Castillo          40               Poliza vigente               10001 dias para vencer                           10018.05
+Andres Martinez Diaz               71               Poliza vencida               295 dias vencido                           11619.30
+Diego Aguilar Flores               57               Poliza vigente               10314 dias para vencer                           14575.15
+Teresa Herrera Morales             24               Poliza vencida               19983 dias vencido                            9986.91
+Jose Diaz Chavez                   20               Poliza vigente               19616 dias para vencer                            9474.45
+Maria Rojas Perez                  35               Poliza vigente               10204 dias para vencer                            6124.03
+Juan Diaz Chavez                   30               Poliza vigente               430 dias para vencer                            4572.16
+Elena Diaz Ruiz                    43               Poliza vigente               10018 dias para vencer                            7402.85
+Carmen Cruz Ruiz                   75               Poliza vencida               9781 dias vencido                           12103.07
+Juan Ruiz Flores                   45               Poliza vigente               320 dias para vencer                           15069.50
+Rosa Mendoza Chavez                53               Poliza vencida               187 dias vencido                           13074.44
+Pedro Vargas Torres                24               Poliza vigente               406 dias para vencer                           10196.28
+Claudia Silva Vargas               45               Poliza vencida               398 dias vencido                           11693.94
+Patricia Reyes Aguilar             21               Poliza vencida               10272 dias vencido                           10460.02
+Ana Medina Ortiz                   41               Poliza vigente               20722 dias para vencer                            7806.93
+Miguel Herrera Ruiz                47               Poliza vigente               19722 dias para vencer                           11524.42
+Patricia Medina Diaz               72               Poliza vigente               9604 dias para vencer                            9495.17
+Victor Flores Diaz                 51               Poliza vencida               9494 dias vencido                           12845.27
+Teresa Nunez Rivera                57               Poliza vencida               9494 dias vencido                           19793.08
+Silvia Ramirez Lopez               70               Poliza vencida               29696 dias vencido                           11766.91
+Miguel Chavez Gomez                66               Poliza vencida               397 dias vencido                           14301.68
+Jorge Mendoza Castillo             72               Poliza vigente               319 dias para vencer                           13802.33
+Patricia Diaz Flores               55               Poliza vigente               20210 dias para vencer                           16605.25
+Monica Martinez Mendoza            23               Poliza vigente               17 dias para vencer                           14921.57
+Diego Martinez Garcia              61               Poliza vigente               10302 dias para vencer                           14168.78
+Pedro Ramirez Ramirez              30               Poliza vigente               10104 dias para vencer                            9214.80
+Jose Aguilar Jimenez               69               Poliza vencida               9497 dias vencido                           19084.08
+Luis Vargas Gonzalez               59               Poliza vigente               723 dias para vencer                            8411.74
+Victor Ramirez Diaz                25               Poliza vigente               19605 dias para vencer                            6365.13
+Jorge Reyes Rodriguez              67               Poliza vencida               19277 dias vencido                           13147.87
+Jorge Diaz Ruiz                    44               Poliza vigente               302 dias para vencer                            8187.26
+Andres Medina Chavez               65               Poliza vigente               606 dias para vencer                           15573.90
+Claudia Ortiz Cruz                 50               Poliza vigente               10103 dias para vencer                            8050.35
+Elena Silva Gomez                  50               Poliza vigente               10605 dias para vencer                            9489.78
+Silvia Castillo Cruz               29               Poliza vigente               10220 dias para vencer                            8917.23
+Manuel Reyes Chavez                34               Poliza vencida               79 dias vencido                           12673.37
+Jose Rivera Flores                 55               Poliza vigente               606 dias para vencer                            4624.42
+Carlos Torres Medina               30               Poliza vencida               200 dias vencido                            4320.43
+Gabriela Medina Silva              33               Poliza vencida               29797 dias vencido                            7343.72
+Lucia Diaz Rivera                  54               Poliza vencida               9697 dias vencido                            9453.82
+Valeria Cruz Rojas                 31               Poliza vigente               10304 dias para vencer                           19233.89
+Valeria Castillo Gonzalez          51               Poliza vigente               401 dias para vencer                           10426.63
+Rosa Garcia Lopez                  19               Poliza vencida               9296 dias vencido                            9378.80
+Fernando Flores Rivera             72               Poliza vigente               6 dias para vencer                           17387.03
+Claudia Nunez Sanchez              65               Poliza vigente               19707 dias para vencer                           11112.89
+Carlos Medina Aguilar              30               Poliza vencida               279 dias vencido                           12237.89
+Teresa Martinez Morales            27               Poliza vencida               9876 dias vencido                           17590.72
+Jose Reyes Garcia                  28               Poliza vigente               428 dias para vencer                            8023.59
+Diego Medina Rodriguez             38               Poliza vigente               39702 dias para vencer                           12508.13
